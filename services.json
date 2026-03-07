@@ -1,0 +1,183 @@
+{
+  "version": "2025-01-01",
+  "generated": "2025-01-01",
+  "services": [
+    {
+      "id": "svc_001",
+      "agency": "Eastbourne Foodbank",
+      "name": "The Beehive Drop-in",
+      "category": "Food",
+      "address": "12 High Street, Eastbourne, BN21 1HH",
+      "openingType": "regular",
+      "coordinates": { "lat": 50.7692, "lng": 0.284 },
+      "hours": [
+        {
+          "days": ["Mon", "Tue", "Thu", "Fri"],
+          "open": "09:00",
+          "close": "17:00"
+        },
+        { "days": ["Wed"], "open": "10:00", "close": "17:00" }
+      ],
+      "phone": "01323 000001",
+      "email": "info@beehive.org.uk",
+      "website": "beehive.org.uk",
+      "notes": "Hot meals served on Wednesdays. No referral needed for first visit. Please bring ID if applying for emergency food parcels."
+    },
+    {
+      "id": "svc_002",
+      "agency": "Eastbourne Churches Together",
+      "name": "Community Shower Facility",
+      "category": "Showers",
+      "address": "St Saviour's Church Hall, Spencer Road, Eastbourne, BN21 4PA",
+      "openingType": "regular",
+      "coordinates": { "lat": 50.768, "lng": 0.2755 },
+      "hours": [
+        { "days": ["Mon", "Wed", "Fri"], "open": "08:30", "close": "11:00" }
+      ],
+      "phone": "01323 000002",
+      "email": null,
+      "website": "eastbournechurches.org.uk",
+      "notes": "Towels provided. Limited slots — arrive early. Toiletries available on request."
+    },
+    {
+      "id": "svc_003",
+      "agency": "Porchlight",
+      "name": "Eastbourne Outreach & Housing Advice",
+      "category": "Accommodation",
+      "address": "48 Grove Road, Eastbourne, BN21 4TX",
+      "openingType": "regular",
+      "coordinates": { "lat": 50.7701, "lng": 0.2823 },
+      "hours": [
+        {
+          "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "phone": "0800 000003",
+      "email": "eastbourne@porchlight.org.uk",
+      "website": "porchlight.org.uk",
+      "notes": "Freephone number. Outreach workers available evenings by arrangement."
+    },
+    {
+      "id": "svc_004",
+      "agency": "Sussex Law Centre",
+      "name": "Housing & Benefits Legal Advice",
+      "category": "Legal",
+      "address": "21 The Goffs, Eastbourne, BN21 1HF",
+      "openingType": "regular",
+      "coordinates": { "lat": 50.7715, "lng": 0.2801 },
+      "hours": [
+        { "days": ["Mon"], "open": "10:00", "close": "16:00" },
+        { "days": ["Thu"], "open": "13:00", "close": "16:00" }
+      ],
+      "phone": "01323 000004",
+      "email": "advice@sussexlawcentre.org.uk",
+      "website": "sussexlawcentre.org.uk",
+      "notes": "Appointment preferred but walk-ins accepted if capacity allows."
+    },
+    {
+      "id": "svc_005",
+      "agency": "Change Grow Live",
+      "name": "Substance Misuse Support",
+      "category": "Substance Misuse",
+      "address": "4 Grange Road, Eastbourne, BN21 4EU",
+      "openingType": "regular",
+      "coordinates": { "lat": 50.7688, "lng": 0.2812 },
+      "hours": [
+        {
+          "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+          "open": "09:00",
+          "close": "17:00"
+        },
+        { "days": ["Sat"], "open": "10:00", "close": "13:00" }
+      ],
+      "phone": "01323 000005",
+      "email": "eastbourne@cgl.org.uk",
+      "website": "changegrowlive.org",
+      "notes": "Walk-in welcome. Needle exchange available. All conversations confidential."
+    },
+    {
+      "id": "svc_006",
+      "agency": "East Sussex Healthcare NHS",
+      "name": "Homeless Health Clinic",
+      "category": "Healthcare",
+      "address": "Eastbourne District General Hospital, Kings Drive, BN21 2UD",
+      "openingType": "regular",
+      "coordinates": { "lat": 50.7748, "lng": 0.2702 },
+      "hours": [
+        { "days": ["Tue"], "open": "14:00", "close": "17:00" },
+        { "days": ["Thu"], "open": "10:00", "close": "13:00" }
+      ],
+      "phone": "01323 000006",
+      "email": "homeless.health@nhs.net",
+      "website": "esht.nhs.uk",
+      "notes": "No appointment needed. Confidential. Interpreter available on request."
+    },
+    {
+      "id": "svc_007",
+      "agency": "Eastbourne Community Trust",
+      "name": "Saturday Community Cafe",
+      "category": "Café",
+      "address": "Old Town Hall, Grove Road, Eastbourne, BN21 4TL",
+      "openingType": "variable",
+      "coordinates": { "lat": 50.7698, "lng": 0.2834 },
+      "hours": [],
+      "phone": "01323 000007",
+      "email": null,
+      "website": null,
+      "notes": "Open on the 2nd and 4th Saturday of each month, 10:00-13:00. Hot drinks and light meals. No session in August."
+    },
+    {
+      "id": "svc_008",
+      "agency": "Lewes District Council",
+      "name": "Lewes Housing Options",
+      "category": "Advice",
+      "address": "Southover House, Southover Road, Lewes, BN7 1AB",
+      "openingType": "regular",
+      "coordinates": { "lat": 50.8742, "lng": 0.0089 },
+      "hours": [
+        {
+          "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "phone": "01273 000008",
+      "email": "housing@lewes.gov.uk",
+      "website": "lewes.gov.uk",
+      "notes": "Advice on homelessness prevention and emergency accommodation. Appointment recommended."
+    },
+    {
+      "id": "svc_009",
+      "agency": "St Wilfrid's",
+      "name": "Community Clothing Store",
+      "category": "Clothing",
+      "address": "1 Broadwater Way, Eastbourne, BN22 9AZ",
+      "openingType": "regular",
+      "coordinates": { "lat": 50.766, "lng": 0.289 },
+      "hours": [
+        { "days": ["Wed"], "open": "10:00", "close": "14:00" },
+        { "days": ["Sat"], "open": "09:30", "close": "12:30" }
+      ],
+      "phone": "01323 000009",
+      "email": null,
+      "website": "stwh.co.uk",
+      "notes": "Up to 3 items per visit. No appointment needed. Coats and footwear available."
+    },
+    {
+      "id": "svc_010",
+      "agency": "Eastbourne Borough Council",
+      "name": "Employment Support Drop-in",
+      "category": "Employment",
+      "address": "Grove Road Community Centre, Eastbourne, BN21 4TX",
+      "openingType": "regular",
+      "coordinates": { "lat": 50.7705, "lng": 0.2819 },
+      "hours": [{ "days": ["Tue", "Thu"], "open": "10:00", "close": "15:00" }],
+      "phone": "01323 000010",
+      "email": "employment@eastbourne.gov.uk",
+      "website": "eastbourne.gov.uk",
+      "notes": "CV help, job search assistance, Universal Credit support."
+    }
+  ]
+}
