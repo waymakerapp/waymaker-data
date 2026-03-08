@@ -1,183 +1,1598 @@
 {
-  "version": "2025-01-01",
-  "generated": "2025-01-01",
+  "version": "202603081736",
+  "generated": "2026-03-08T17:36:24.041347Z",
   "services": [
     {
-      "id": "svc_001",
-      "agency": "Eastbourne Foodbank",
-      "name": "The Beehive Drop-in",
-      "category": "Food",
-      "address": "12 High Street, Eastbourne, BN21 1HH",
-      "openingType": "regular",
-      "coordinates": { "lat": 50.7692, "lng": 0.284 },
-      "hours": [
-        {
-          "days": ["Mon", "Tue", "Thu", "Fri"],
-          "open": "09:00",
-          "close": "17:00"
-        },
-        { "days": ["Wed"], "open": "10:00", "close": "17:00" }
-      ],
-      "phone": "01323 000001",
-      "email": "info@beehive.org.uk",
-      "website": "beehive.org.uk",
-      "notes": "Hot meals served on Wednesdays. No referral needed for first visit. Please bring ID if applying for emergency food parcels."
-    },
-    {
-      "id": "svc_002",
-      "agency": "Eastbourne Churches Together",
-      "name": "Community Shower Facility",
-      "category": "Showers",
-      "address": "St Saviour's Church Hall, Spencer Road, Eastbourne, BN21 4PA",
-      "openingType": "regular",
-      "coordinates": { "lat": 50.768, "lng": 0.2755 },
-      "hours": [
-        { "days": ["Mon", "Wed", "Fri"], "open": "08:30", "close": "11:00" }
-      ],
-      "phone": "01323 000002",
-      "email": null,
-      "website": "eastbournechurches.org.uk",
-      "notes": "Towels provided. Limited slots — arrive early. Toiletries available on request."
-    },
-    {
-      "id": "svc_003",
-      "agency": "Porchlight",
-      "name": "Eastbourne Outreach & Housing Advice",
-      "category": "Accommodation",
-      "address": "48 Grove Road, Eastbourne, BN21 4TX",
-      "openingType": "regular",
-      "coordinates": { "lat": 50.7701, "lng": 0.2823 },
-      "hours": [
-        {
-          "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
-          "open": "09:00",
-          "close": "17:00"
-        }
-      ],
-      "phone": "0800 000003",
-      "email": "eastbourne@porchlight.org.uk",
-      "website": "porchlight.org.uk",
-      "notes": "Freephone number. Outreach workers available evenings by arrangement."
-    },
-    {
-      "id": "svc_004",
-      "agency": "Sussex Law Centre",
-      "name": "Housing & Benefits Legal Advice",
-      "category": "Legal",
-      "address": "21 The Goffs, Eastbourne, BN21 1HF",
-      "openingType": "regular",
-      "coordinates": { "lat": 50.7715, "lng": 0.2801 },
-      "hours": [
-        { "days": ["Mon"], "open": "10:00", "close": "16:00" },
-        { "days": ["Thu"], "open": "13:00", "close": "16:00" }
-      ],
-      "phone": "01323 000004",
-      "email": "advice@sussexlawcentre.org.uk",
-      "website": "sussexlawcentre.org.uk",
-      "notes": "Appointment preferred but walk-ins accepted if capacity allows."
-    },
-    {
-      "id": "svc_005",
-      "agency": "Change Grow Live",
-      "name": "Substance Misuse Support",
-      "category": "Substance Misuse",
-      "address": "4 Grange Road, Eastbourne, BN21 4EU",
-      "openingType": "regular",
-      "coordinates": { "lat": 50.7688, "lng": 0.2812 },
-      "hours": [
-        {
-          "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
-          "open": "09:00",
-          "close": "17:00"
-        },
-        { "days": ["Sat"], "open": "10:00", "close": "13:00" }
-      ],
-      "phone": "01323 000005",
-      "email": "eastbourne@cgl.org.uk",
-      "website": "changegrowlive.org",
-      "notes": "Walk-in welcome. Needle exchange available. All conversations confidential."
-    },
-    {
-      "id": "svc_006",
-      "agency": "East Sussex Healthcare NHS",
-      "name": "Homeless Health Clinic",
-      "category": "Healthcare",
-      "address": "Eastbourne District General Hospital, Kings Drive, BN21 2UD",
-      "openingType": "regular",
-      "coordinates": { "lat": 50.7748, "lng": 0.2702 },
-      "hours": [
-        { "days": ["Tue"], "open": "14:00", "close": "17:00" },
-        { "days": ["Thu"], "open": "10:00", "close": "13:00" }
-      ],
-      "phone": "01323 000006",
-      "email": "homeless.health@nhs.net",
-      "website": "esht.nhs.uk",
-      "notes": "No appointment needed. Confidential. Interpreter available on request."
-    },
-    {
-      "id": "svc_007",
-      "agency": "Eastbourne Community Trust",
-      "name": "Saturday Community Cafe",
-      "category": "Café",
-      "address": "Old Town Hall, Grove Road, Eastbourne, BN21 4TL",
-      "openingType": "variable",
-      "coordinates": { "lat": 50.7698, "lng": 0.2834 },
-      "hours": [],
-      "phone": "01323 000007",
-      "email": null,
-      "website": null,
-      "notes": "Open on the 2nd and 4th Saturday of each month, 10:00-13:00. Hot drinks and light meals. No session in August."
-    },
-    {
-      "id": "svc_008",
-      "agency": "Lewes District Council",
-      "name": "Lewes Housing Options",
+      "id": "bht_sussex_bht_eastbourne_advice_2",
+      "name": "BHT Eastbourne Advice",
+      "agency": "BHT Sussex",
       "category": "Advice",
-      "address": "Southover House, Southover Road, Lewes, BN7 1AB",
+      "address": "Highlight House, 8 St Leonards Road, Eastbourne, BN21 3UH",
+      "coordinates": {
+        "lat": 50.7705090720842,
+        "lng": 0.280420174173472
+      },
       "openingType": "regular",
-      "coordinates": { "lat": 50.8742, "lng": 0.0089 },
       "hours": [
         {
-          "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+          "day": "Mon",
+          "open": "09:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Tue",
+          "open": "09:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Wed",
+          "open": "09:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Thu",
+          "open": "09:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Fri",
+          "open": "09:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Sat",
+          "open": "09:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Sun",
           "open": "09:00",
           "close": "17:00"
         }
       ],
-      "phone": "01273 000008",
-      "email": "housing@lewes.gov.uk",
-      "website": "lewes.gov.uk",
-      "notes": "Advice on homelessness prevention and emergency accommodation. Appointment recommended."
+      "phone": "01323 642615",
+      "email": "eastbourneadvice@bht.org.uk",
+      "website": "https://www.bht.org.uk/services/legal-advice/eastbourne-advice-centre/",
+      "notes": "Housing advice for homeless or at risk. Help with applications, rights & appeals."
     },
     {
-      "id": "svc_009",
-      "agency": "St Wilfrid's",
-      "name": "Community Clothing Store",
-      "category": "Clothing",
-      "address": "1 Broadwater Way, Eastbourne, BN22 9AZ",
+      "id": "cgl_recovery_caf_3",
+      "name": "Recovery Café",
+      "agency": "CGL",
+      "category": "Substance Misuse",
+      "address": "5 North St, Eastbourne BN21 3HG",
+      "coordinates": {
+        "lat": 50.768313224798,
+        "lng": 0.289382197457046
+      },
       "openingType": "regular",
-      "coordinates": { "lat": 50.766, "lng": 0.289 },
       "hours": [
-        { "days": ["Wed"], "open": "10:00", "close": "14:00" },
-        { "days": ["Sat"], "open": "09:30", "close": "12:30" }
+        {
+          "day": "Mon",
+          "open": "10:00",
+          "close": "16:00"
+        },
+        {
+          "day": "Tue",
+          "open": "10:00",
+          "close": "16:00"
+        },
+        {
+          "day": "Wed",
+          "open": "10:00",
+          "close": "16:00"
+        },
+        {
+          "day": "Thu",
+          "open": "10:00",
+          "close": "16:00"
+        },
+        {
+          "day": "Fri",
+          "open": "10:00",
+          "close": "16:00"
+        },
+        {
+          "day": "Sat",
+          "open": "10:00",
+          "close": "16:00"
+        },
+        {
+          "day": "Sun",
+          "open": "10:00",
+          "close": "16:00"
+        }
       ],
-      "phone": "01323 000009",
-      "email": null,
-      "website": "stwh.co.uk",
-      "notes": "Up to 3 items per visit. No appointment needed. Coats and footwear available."
+      "website": "https://www.changegrowlive.org/star-drug-alcohol-service-east-sussex/cafe",
+      "notes": "Wednesday Women only sessions. Help for addictions and substance misuse"
     },
     {
-      "id": "svc_010",
-      "agency": "Eastbourne Borough Council",
-      "name": "Employment Support Drop-in",
-      "category": "Employment",
-      "address": "Grove Road Community Centre, Eastbourne, BN21 4TX",
+      "id": "cgl_cgl_drug_support_team_4",
+      "name": "CGL Drug support Team",
+      "agency": "CGL",
+      "category": "Substance Misuse",
+      "address": "Lift House, 6 St Leonard's Rd, Eastbourne BN21 3UH",
+      "coordinates": {
+        "lat": 50.7705704021735,
+        "lng": 0.280121153279526
+      },
       "openingType": "regular",
-      "coordinates": { "lat": 50.7705, "lng": 0.2819 },
-      "hours": [{ "days": ["Tue", "Thu"], "open": "10:00", "close": "15:00" }],
-      "phone": "01323 000010",
-      "email": "employment@eastbourne.gov.uk",
-      "website": "eastbourne.gov.uk",
-      "notes": "CV help, job search assistance, Universal Credit support."
+      "hours": [
+        {
+          "day": "Mon",
+          "open": "09:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Tue",
+          "open": "09:00",
+          "close": "19:00"
+        },
+        {
+          "day": "Wed",
+          "open": "09:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Thu",
+          "open": "09:00",
+          "close": "19:00"
+        }
+      ],
+      "phone": "0300 303 8160",
+      "email": "EastSussex.Firststep@cgl.org.uk",
+      "website": "https://www.changegrowlive.org/service/east-sussex-star",
+      "notes": "Closed for lunch 1-1.30pm. Help for addictions and substance misuse"
+    },
+    {
+      "id": "citizens_advice_citizens_advice_bureau_service_5",
+      "name": "Citizens Advice Bureau service",
+      "agency": "Citizens Advice",
+      "category": "Advice",
+      "address": "Highlight House, 8 St Leonard's Rd, Eastbourne BN21 3UH",
+      "coordinates": {
+        "lat": 50.7706117315717,
+        "lng": 0.280384010950567
+      },
+      "openingType": "regular",
+      "hours": [
+        {
+          "day": "Mon",
+          "open": "10:00",
+          "close": "15:00"
+        },
+        {
+          "day": "Tue",
+          "open": "10:00",
+          "close": "13:00"
+        },
+        {
+          "day": "Wed",
+          "open": "10:00",
+          "close": "15:00"
+        },
+        {
+          "day": "Thu",
+          "open": "10:00",
+          "close": "15:00"
+        }
+      ],
+      "phone": "0800 1448848",
+      "email": "manager@eastbournecab.cabnet.org.uk",
+      "website": "https://www.eastbournecab.co.uk/",
+      "notes": "Phone service Monday to Friday 10am-4pm (Tuesday 10am-1pm)."
+    },
+    {
+      "id": "dwp_jobcentre_plus_6",
+      "name": "Jobcentre Plus",
+      "agency": "DWP",
+      "category": "Employment",
+      "address": "St Annes House, 2 St Anne's Rd, Eastbourne BN21 3XX",
+      "coordinates": {
+        "lat": 50.7716786280124,
+        "lng": 0.2817676821151
+      },
+      "openingType": "regular",
+      "hours": [
+        {
+          "day": "Mon",
+          "open": "09:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Tue",
+          "open": "09:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Wed",
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Thu",
+          "open": "09:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Fri",
+          "open": "09:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Sat",
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "phone": "0800 169 0190 / 01323 417954",
+      "website": "https://www.gov.uk/contact-jobcentre-plus",
+      "notes": "Employment and Benefit support"
+    },
+    {
+      "id": "east_sussex_county_council_connect_to_work_escc_homeless_pre",
+      "name": "ESCC Homeless Prevention Employment Specialists",
+      "agency": "East Sussex County Council - Connect to Work",
+      "category": "Advice",
+      "address": "Countywide",
+      "coordinates": {
+        "lat": 50.7692497222408,
+        "lng": 0.279904480724239
+      },
+      "openingType": "regular",
+      "hours": [
+        {
+          "day": "Mon",
+          "open": "09:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Tue",
+          "open": "09:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Wed",
+          "open": "09:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Thu",
+          "open": "09:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Fri",
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "email": "connecttowork@eastsussex.gov.uk",
+      "website": "https://www.careerseastsussex.co.uk/information/adults/estar/connect-to-work-1",
+      "notes": "Job support in East Sussex for homeless or at risk. Help to find & keep paid work."
+    },
+    {
+      "id": "eastbourne_borough_council_housing_needs_team_ebc_homelessne",
+      "name": "EBC Homelessness services Hub",
+      "agency": "Eastbourne Borough Council Housing Needs Team",
+      "category": "Accommodation",
+      "address": "1 Grove Road, Eastbourne, BN21 4TJ",
+      "coordinates": {
+        "lat": 50.7687303,
+        "lng": 0.2791447
+      },
+      "openingType": "regular",
+      "hours": [
+        {
+          "day": "Mon",
+          "open": "10:00",
+          "close": "14:00"
+        },
+        {
+          "day": "Tue",
+          "open": "10:00",
+          "close": "14:00"
+        },
+        {
+          "day": "Wed",
+          "open": "10:00",
+          "close": "14:00"
+        },
+        {
+          "day": "Thu",
+          "open": "10:00",
+          "close": "14:00"
+        },
+        {
+          "day": "Fri",
+          "open": "10:00",
+          "close": "14:00"
+        }
+      ],
+      "phone": "01323 410000"
+    },
+    {
+      "id": "foodbank_foodbank_st_richard_s_9",
+      "name": "Foodbank - St Richard's",
+      "agency": "Foodbank",
+      "category": "Advice",
+      "address": "St Richard's Church Centre, Priory Road/Etchingham Road\nBN23 7AX",
+      "coordinates": {
+        "lat": 50.79589,
+        "lng": 0.3146
+      },
+      "openingType": "regular",
+      "hours": [
+        {
+          "day": "Mon",
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ],
+      "phone": "01323 409925",
+      "email": "admin@eastbourne.foodbank.org.uk",
+      "website": "https://eastbourne.foodbank.org.uk",
+      "notes": "No food is available"
+    },
+    {
+      "id": "foodbank_foodbank_langney_community_centre_10",
+      "name": "Foodbank - Langney Community Centre",
+      "agency": "Foodbank",
+      "category": "Advice",
+      "address": "Langney community centre Etchinham Rd BN23 7DX",
+      "coordinates": {
+        "lat": 50.79712,
+        "lng": 0.31306
+      },
+      "openingType": "regular",
+      "hours": [
+        {
+          "day": "Mon",
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ],
+      "phone": "01323 409925",
+      "email": "admin@eastbourne.foodbank.org.uk",
+      "website": "https://eastbourne.foodbank.org.uk",
+      "notes": "You must have a food voucher"
+    },
+    {
+      "id": "foodbank_foodbank_st_elisabeth_s_11",
+      "name": "Foodbank - St Elisabeth's",
+      "agency": "Foodbank",
+      "category": "Advice",
+      "address": "St Elisabeth's Church Centre, 268 Victoria Drive, BN20 8QX",
+      "coordinates": {
+        "lat": 50.78359,
+        "lng": 0.25453
+      },
+      "openingType": "regular",
+      "hours": [
+        {
+          "day": "Tue",
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ],
+      "phone": "01323 409925",
+      "email": "admin@eastbourne.foodbank.org.uk",
+      "website": "https://eastbourne.foodbank.org.uk"
+    },
+    {
+      "id": "foodbank_foodbank_all_souls_12",
+      "name": "Foodbank - All Souls",
+      "agency": "Foodbank",
+      "category": "Advice",
+      "address": "All Souls Church Hall, Wellesley Rd, BN21 3RJ",
+      "coordinates": {
+        "lat": 50.77066,
+        "lng": 0.28808
+      },
+      "openingType": "regular",
+      "hours": [
+        {
+          "day": "Tue",
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ],
+      "phone": "01323 409925",
+      "email": "admin@eastbourne.foodbank.org.uk",
+      "website": "https://eastbourne.foodbank.org.uk"
+    },
+    {
+      "id": "foodbank_foodbank_gateway_christian_centre_13",
+      "name": "Foodbank - Gateway Christian Centre",
+      "agency": "Foodbank",
+      "category": "Advice",
+      "address": "Gateway Christian Centre, 66-70 Lottbridge Drive, BN22 9PB",
+      "coordinates": {
+        "lat": 50.80016,
+        "lng": 0.27953
+      },
+      "openingType": "regular",
+      "hours": [
+        {
+          "day": "Wed",
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ],
+      "phone": "01323 409925",
+      "email": "admin@eastbourne.foodbank.org.uk",
+      "website": "https://eastbourne.foodbank.org.uk"
+    },
+    {
+      "id": "foodbank_foodbank_st_elisabeth_s_14",
+      "name": "Foodbank - St Elisabeth's",
+      "agency": "Foodbank",
+      "category": "Café",
+      "address": "St Elisabeth's Church Centre, 268 Victoria Drive, BN20 8QX",
+      "coordinates": {
+        "lat": 50.78359,
+        "lng": 0.25459
+      },
+      "openingType": "regular",
+      "hours": [
+        {
+          "day": "Tue",
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ],
+      "phone": "01323 409925",
+      "email": "admin@eastbourne.foodbank.org.uk",
+      "website": "https://eastbourne.foodbank.org.uk"
+    },
+    {
+      "id": "foodbank_foodbank_all_souls_15",
+      "name": "Foodbank - All Souls",
+      "agency": "Foodbank",
+      "category": "Café",
+      "address": "All Souls Church Hall, Wellesley Rd, BN21 3RJ",
+      "coordinates": {
+        "lat": 50.77062,
+        "lng": 0.28813
+      },
+      "openingType": "regular",
+      "hours": [
+        {
+          "day": "Tue",
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ],
+      "phone": "01323 409925",
+      "email": "admin@eastbourne.foodbank.org.uk",
+      "website": "https://eastbourne.foodbank.org.uk"
+    },
+    {
+      "id": "foodbank_foodbank_gateway_christian_centre_16",
+      "name": "Foodbank - Gateway Christian Centre",
+      "agency": "Foodbank",
+      "category": "Café",
+      "address": "Gateway Christian Centre, 66-70 Lottbridge Drive, BN22 9PB",
+      "coordinates": {
+        "lat": 50.80016,
+        "lng": 0.27959
+      },
+      "openingType": "regular",
+      "hours": [
+        {
+          "day": "Wed",
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ],
+      "phone": "01323 409925",
+      "email": "admin@eastbourne.foodbank.org.uk",
+      "website": "https://eastbourne.foodbank.org.uk"
+    },
+    {
+      "id": "foodbank_foodbank_langney_community_centre_17",
+      "name": "Foodbank - Langney Community Centre",
+      "agency": "Foodbank",
+      "category": "Food",
+      "address": "Langney community centre Etchinham Rd BN23 7DX",
+      "coordinates": {
+        "lat": 50.79712,
+        "lng": 0.31311
+      },
+      "openingType": "regular",
+      "hours": [
+        {
+          "day": "Mon",
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ],
+      "phone": "01323 409925",
+      "email": "admin@eastbourne.foodbank.org.uk",
+      "website": "https://eastbourne.foodbank.org.uk",
+      "notes": "You must have a food voucher"
+    },
+    {
+      "id": "foodbank_foodbank_st_elisabeth_s_18",
+      "name": "Foodbank - St Elisabeth's",
+      "agency": "Foodbank",
+      "category": "Food",
+      "address": "St Elisabeth's Church Centre, 268 Victoria Drive, BN20 8QX",
+      "coordinates": {
+        "lat": 50.78359,
+        "lng": 0.25464
+      },
+      "openingType": "regular",
+      "hours": [
+        {
+          "day": "Tue",
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ],
+      "phone": "01323 409925",
+      "email": "admin@eastbourne.foodbank.org.uk",
+      "website": "https://eastbourne.foodbank.org.uk"
+    },
+    {
+      "id": "foodbank_foodbank_all_souls_19",
+      "name": "Foodbank - All Souls",
+      "agency": "Foodbank",
+      "category": "Food",
+      "address": "All Souls Church Hall, Wellesley Rd, BN21 3RJ",
+      "coordinates": {
+        "lat": 50.77057,
+        "lng": 0.28817
+      },
+      "openingType": "regular",
+      "hours": [
+        {
+          "day": "Tue",
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ],
+      "phone": "01323 409925",
+      "email": "admin@eastbourne.foodbank.org.uk",
+      "website": "https://eastbourne.foodbank.org.uk"
+    },
+    {
+      "id": "foodbank_foodbank_gateway_christian_centre_20",
+      "name": "Foodbank - Gateway Christian Centre",
+      "agency": "Foodbank",
+      "category": "Food",
+      "address": "Gateway Christian Centre, 66-70 Lottbridge Drive, BN22 9PB",
+      "coordinates": {
+        "lat": 50.80016,
+        "lng": 0.27966
+      },
+      "openingType": "regular",
+      "hours": [
+        {
+          "day": "Wed",
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ],
+      "phone": "01323 409925",
+      "email": "admin@eastbourne.foodbank.org.uk",
+      "website": "https://eastbourne.foodbank.org.uk"
+    },
+    {
+      "id": "foodbank_foodbank_st_saviour_s_21",
+      "name": "Foodbank - St Saviour's",
+      "agency": "Foodbank",
+      "category": "Food",
+      "address": "St Saviour's Church, South Street, BN21 4UT",
+      "coordinates": {
+        "lat": 50.7661703910075,
+        "lng": 0.28289141095037
+      },
+      "openingType": "regular",
+      "hours": [
+        {
+          "day": "Fri",
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ],
+      "phone": "01323 409925",
+      "email": "admin@eastbourne.foodbank.org.uk",
+      "website": "https://eastbourne.foodbank.org.uk"
+    },
+    {
+      "id": "foodbank_foodbank_st_richard_s_22",
+      "name": "Foodbank - St Richard's",
+      "agency": "Foodbank",
+      "category": "Food Voucher",
+      "address": "St Richard's Church Centre, Priory Road/Etchingham Road\nBN23 7AX",
+      "coordinates": {
+        "lat": 50.7958963996933,
+        "lng": 0.314654231839816
+      },
+      "openingType": "regular",
+      "hours": [
+        {
+          "day": "Mon",
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ],
+      "phone": "01323 409925",
+      "email": "admin@eastbourne.foodbank.org.uk",
+      "website": "https://eastbourne.foodbank.org.uk",
+      "notes": "No food is available"
+    },
+    {
+      "id": "kingdom_way_trust_weekend_drop_in_kingdom_way_trust_23",
+      "name": "Weekend Drop-In  Kingdom Way Trust",
+      "agency": "Kingdom Way Trust",
+      "category": "Refreshments",
+      "address": "The Way, 91-93 Seaside Road, Eastbourne, BN21 3PL",
+      "coordinates": {
+        "lat": 50.7683131078461,
+        "lng": 0.291309782025832
+      },
+      "openingType": "variable",
+      "hours": [
+        {
+          "day": "Sat",
+          "note": "10:30-15:30"
+        },
+        {
+          "day": "Sun",
+          "note": "10:30-15:30"
+        }
+      ],
+      "phone": "07522 552117",
+      "email": "theway@kingdomwaytrust.org",
+      "website": "https://www.kingdomwaytrust.org/the-way",
+      "notes": "Open 2nd & 4th weekend of month"
+    },
+    {
+      "id": "langney_community_centre_caf_langney_community_centre_24",
+      "name": "Café Langney Community Centre",
+      "agency": "Langney Community Centre",
+      "category": "Café",
+      "address": "Langney community centre Etchinham Rd BN23 7DX",
+      "coordinates": {
+        "lat": 50.79715,
+        "lng": 0.31306
+      },
+      "openingType": "regular",
+      "hours": [
+        {
+          "day": "Tue",
+          "open": "12:30",
+          "close": "15:00"
+        },
+        {
+          "day": "Fri",
+          "open": "12:00",
+          "close": "14:00"
+        }
+      ],
+      "phone": "01323 763762"
+    },
+    {
+      "id": "langney_community_centre_clothing_langney_community_centre_2",
+      "name": "Clothing - Langney Community Centre",
+      "agency": "Langney Community Centre",
+      "category": "Clothing",
+      "address": "Langney community centre Etchinham Rd BN23 7DX",
+      "coordinates": {
+        "lat": 50.79715,
+        "lng": 0.31312
+      },
+      "openingType": "regular",
+      "hours": [
+        {
+          "day": "Mon",
+          "open": "10:00",
+          "close": "13:00"
+        },
+        {
+          "day": "Tue",
+          "open": "10:00",
+          "close": "13:00"
+        },
+        {
+          "day": "Wed",
+          "open": "10:00",
+          "close": "13:00"
+        },
+        {
+          "day": "Thu",
+          "open": "10:00",
+          "close": "13:00"
+        },
+        {
+          "day": "Fri",
+          "open": "10:00",
+          "close": "13:00"
+        }
+      ],
+      "phone": "07851623608",
+      "email": "langenycommunitycentre@gmail.com",
+      "notes": "clothing avaible from donations in lobby"
+    },
+    {
+      "id": "langney_community_centre_langney_community_fridge_26",
+      "name": "Langney Community Fridge",
+      "agency": "Langney Community Centre",
+      "category": "Food",
+      "address": "Langney community centre Etchinham Rd BN23 7DX",
+      "coordinates": {
+        "lat": 50.79715,
+        "lng": 0.31318
+      },
+      "openingType": "regular",
+      "hours": [
+        {
+          "day": "Tue",
+          "open": "13:00",
+          "close": "15:00"
+        },
+        {
+          "day": "Wed",
+          "open": "10:30",
+          "close": "12:00"
+        }
+      ],
+      "phone": "01323 763762",
+      "notes": "Selection of low cost food. Fresh fruit and veg."
+    },
+    {
+      "id": "langney_community_centre_tech_resort_langney_community_centr",
+      "name": "Tech Resort - Langney Community Centre",
+      "agency": "Langney Community Centre",
+      "category": "Tech Access",
+      "address": "Langney community centre Etchinham Rd BN23 7DX",
+      "coordinates": {
+        "lat": 50.79715,
+        "lng": 0.31324
+      },
+      "openingType": "variable",
+      "hours": [
+        {
+          "day": "Tue",
+          "note": "13:00-15:00"
+        }
+      ],
+      "phone": "01323 763762"
+    },
+    {
+      "id": "lewes_district_churches_homelink_homelink_housing_and_homele",
+      "name": "Homelink Housing and homelessness assistance",
+      "agency": "Lewes District Churches HOMELINK",
+      "category": "Advice",
+      "address": "Lewes based office",
+      "coordinates": {
+        "lat": 50.8741689492553,
+        "lng": 0.0150972072230132
+      },
+      "openingType": "regular",
+      "hours": [
+        {
+          "day": "Tue",
+          "open": "08:00",
+          "close": "16:00"
+        },
+        {
+          "day": "Wed",
+          "open": "08:00",
+          "close": "16:00"
+        },
+        {
+          "day": "Thu",
+          "open": "08:00",
+          "close": "16:00"
+        },
+        {
+          "day": "Fri",
+          "open": "08:00",
+          "close": "16:00"
+        }
+      ],
+      "phone": "01273 921272",
+      "notes": "Call 01273 921272. Housing advice, deposit loans & essential grants (Lewes District)."
+    },
+    {
+      "id": "lewes_open_door_lewes_open_door_homelessness_and_housing_adv",
+      "name": "Lewes Open Door Homelessness and Housing advice",
+      "agency": "Lewes Open Door",
+      "category": "Signposting",
+      "address": "Kings Church, Unit 3, Brooks Rd, Lewes, BN7 2BY",
+      "coordinates": {
+        "lat": 50.8777931672701,
+        "lng": 0.0162735802711778
+      },
+      "openingType": "regular",
+      "hours": [
+        {
+          "day": "Mon",
+          "open": "12:00",
+          "close": "14:00"
+        }
+      ],
+      "phone": "07985 418079",
+      "email": "lewesopendoor@gmail.com",
+      "website": "https://www.lewesopendoor.org",
+      "notes": "Support, referrals, clothing & emergency outreach for homeless or at risk."
+    },
+    {
+      "id": "library_library_services_30",
+      "name": "Library Services",
+      "agency": "Library",
+      "category": "Tech Access",
+      "address": "Grove Rd, Eastbourne BN21 4TL",
+      "coordinates": {
+        "lat": 50.7686962372955,
+        "lng": 0.279333748475316
+      },
+      "openingType": "regular",
+      "hours": [
+        {
+          "day": "Mon",
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Tue",
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Wed",
+          "open": "10:00",
+          "close": "13:00"
+        },
+        {
+          "day": "Thu",
+          "open": "10:00",
+          "close": "18:00"
+        },
+        {
+          "day": "Fri",
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Sat",
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "phone": "0345 608 0196",
+      "email": "0345 608 0196",
+      "notes": "Free access to computers and the internet, Free wifi"
+    },
+    {
+      "id": "matthew_25_mission_citizens_advice_bureau_service_31",
+      "name": "Citizens Advice Bureau service",
+      "agency": "Matthew 25 Mission",
+      "category": "Advice",
+      "address": "Brodie Hall, Christchurch, Seaside, Eastbourne, BN22 7NN",
+      "coordinates": {
+        "lat": 50.77444,
+        "lng": 0.29638
+      },
+      "openingType": "regular",
+      "hours": [
+        {
+          "day": "Thu",
+          "open": "09:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "id": "matthew_25_mission_barber_32",
+      "name": "Barber",
+      "agency": "Matthew 25 Mission",
+      "category": "Haircut",
+      "address": "Brodie Hall, Christchurch, Seaside, Eastbourne, BN22 7NN",
+      "coordinates": {
+        "lat": 50.77444,
+        "lng": 0.29649
+      },
+      "openingType": "variable",
+      "hours": [
+        {
+          "day": "Fri",
+          "note": "09:20-12:00"
+        }
+      ]
+    },
+    {
+      "id": "matthew_25_mission_m25_healthy_breakfast_and_healthy_lunch_3",
+      "name": "M25 Healthy Breakfast and Healthy Lunch",
+      "agency": "Matthew 25 Mission",
+      "category": "Meals",
+      "address": "Brodie Hall, Christchurch, Seaside, Eastbourne, BN22 7NN",
+      "coordinates": {
+        "lat": 50.77444,
+        "lng": 0.29661
+      },
+      "openingType": "regular",
+      "hours": [
+        {
+          "day": "Mon",
+          "open": "08:30",
+          "close": "10:00"
+        },
+        {
+          "day": "Mon",
+          "open": "12:30",
+          "close": "14:00"
+        },
+        {
+          "day": "Tue",
+          "open": "08:30",
+          "close": "10:00"
+        },
+        {
+          "day": "Tue",
+          "open": "12:30",
+          "close": "14:00"
+        },
+        {
+          "day": "Wed",
+          "open": "08:30",
+          "close": "10:00"
+        },
+        {
+          "day": "Wed",
+          "open": "12:30",
+          "close": "14:00"
+        },
+        {
+          "day": "Thu",
+          "open": "08:30",
+          "close": "10:00"
+        },
+        {
+          "day": "Thu",
+          "open": "12:30",
+          "close": "14:00"
+        },
+        {
+          "day": "Fri",
+          "open": "08:30",
+          "close": "10:00"
+        },
+        {
+          "day": "Fri",
+          "open": "12:30",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "id": "matthew_25_mission_tech_resort_34",
+      "name": "Tech Resort",
+      "agency": "Matthew 25 Mission",
+      "category": "Tech Access",
+      "address": "Brodie Hall, Christchurch, Seaside, Eastbourne, BN22 7NN",
+      "coordinates": {
+        "lat": 50.77444,
+        "lng": 0.29672
+      },
+      "openingType": "variable",
+      "hours": [
+        {
+          "day": "Mon",
+          "note": "10:00-11:30"
+        }
+      ]
+    },
+    {
+      "id": "probation_office_probation_contact_centre_35",
+      "name": "Probation contact centre",
+      "agency": "Probation Office",
+      "category": "Legal",
+      "address": "35 Old Orchard Road,  BN21 1DD",
+      "coordinates": {
+        "lat": 50.767492270625,
+        "lng": 0.27739929745699
+      },
+      "openingType": "regular",
+      "hours": [
+        {
+          "day": "Mon",
+          "open": "09:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Tue",
+          "open": "09:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Wed",
+          "open": "09:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Thu",
+          "open": "09:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Fri",
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "phone": "01482 736 717",
+      "email": "KSSPSEastbourne@justice.gov.uk"
+    },
+    {
+      "id": "shinewater_community_fridge_shinewater_community_clothing_36",
+      "name": "Shinewater Community Clothing",
+      "agency": "Shinewater Community Fridge",
+      "category": "Clothing",
+      "address": "Shinewater Family Hub, Milfoil Drive, Eastbourne, BN23 8ED",
+      "coordinates": {
+        "lat": 50.80942,
+        "lng": 0.29417
+      },
+      "openingType": "regular",
+      "hours": [
+        {
+          "day": "Mon",
+          "open": "10:00",
+          "close": "15:30"
+        },
+        {
+          "day": "Tue",
+          "open": "10:00",
+          "close": "15:30"
+        },
+        {
+          "day": "Thu",
+          "open": "10:00",
+          "close": "15:30"
+        },
+        {
+          "day": "Fri",
+          "open": "10:00",
+          "close": "15:30"
+        }
+      ],
+      "phone": "01323 463244",
+      "email": "eheastbournehailshamseaford@eastsussex.gov.uk",
+      "notes": "Fruit & veg, pay-what-you-can. Some clothing, books & toiletries available."
+    },
+    {
+      "id": "shinewater_community_fridge_shinewater_community_fridge_37",
+      "name": "Shinewater Community Fridge",
+      "agency": "Shinewater Community Fridge",
+      "category": "Food",
+      "address": "Shinewater Family Hub, Milfoil Drive, Eastbourne, BN23 8ED",
+      "coordinates": {
+        "lat": 50.80942,
+        "lng": 0.29422
+      },
+      "openingType": "regular",
+      "hours": [
+        {
+          "day": "Mon",
+          "open": "10:00",
+          "close": "15:30"
+        },
+        {
+          "day": "Tue",
+          "open": "10:00",
+          "close": "15:30"
+        },
+        {
+          "day": "Thu",
+          "open": "10:00",
+          "close": "15:30"
+        },
+        {
+          "day": "Fri",
+          "open": "10:00",
+          "close": "15:30"
+        }
+      ],
+      "phone": "01323 463244",
+      "email": "eheastbournehailshamseaford@eastsussex.gov.uk",
+      "notes": "Fruit & veg, pay-what-you-can. Some clothing, books & toiletries available."
+    },
+    {
+      "id": "sussex_police_police_station_38",
+      "name": "Police station",
+      "agency": "Sussex Police",
+      "category": "Legal",
+      "address": "1 Grove Rd, Eastbourne BN21 4TL",
+      "coordinates": {
+        "lat": 50.7685044277597,
+        "lng": 0.279379190972433
+      },
+      "openingType": "regular",
+      "hours": [
+        {
+          "day": "Mon",
+          "open": "09:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Tue",
+          "open": "09:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Wed",
+          "open": "09:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Thu",
+          "open": "09:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Fri",
+          "open": "09:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Sat",
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "phone": "01273 470171",
+      "email": "01273 470171"
+    },
+    {
+      "id": "tech_resort_tech_resort_39",
+      "name": "Tech Resort",
+      "agency": "Tech Resort",
+      "category": "Tech Access",
+      "address": "23a Cavendish Place, BN21 3EJ",
+      "coordinates": {
+        "lat": 50.7683431,
+        "lng": 0.291862010950456
+      },
+      "openingType": "regular",
+      "hours": [
+        {
+          "day": "Mon",
+          "open": "11:00",
+          "close": "15:00"
+        },
+        {
+          "day": "Thu",
+          "open": "12:00",
+          "close": "18:00"
+        }
+      ],
+      "website": "https://techresort.org/",
+      "notes": "Tackling digital exclusion and sharing digital skills"
+    },
+    {
+      "id": "the_salvation_army_laundry_salvation_army_40",
+      "name": "Laundry - Salvation Army",
+      "agency": "The Salvation Army",
+      "category": "Laundry",
+      "address": "141, Langney Road Eastbourne, BN22 8AG",
+      "coordinates": {
+        "lat": 50.77131,
+        "lng": 0.29253
+      },
+      "openingType": "regular",
+      "hours": [
+        {
+          "day": "Fri",
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ],
+      "phone": "01323-640382",
+      "email": "eastbourne@salvationarmy.org.uk",
+      "notes": "Signposting to other agencies for help in finance and housing etc."
+    },
+    {
+      "id": "the_salvation_army_evening_meals_salvation_army_41",
+      "name": "Evening meals - Salvation Army",
+      "agency": "The Salvation Army",
+      "category": "Meals",
+      "address": "141, Langney Road Eastbourne, BN22 8AG",
+      "coordinates": {
+        "lat": 50.7713,
+        "lng": 0.29258
+      },
+      "openingType": "regular",
+      "hours": [
+        {
+          "day": "Tue",
+          "open": "18:00",
+          "close": "19:00"
+        },
+        {
+          "day": "Fri",
+          "open": "18:00",
+          "close": "19:00"
+        }
+      ],
+      "phone": "01323-640382",
+      "email": "eastbourne@salvationarmy.org.uk"
+    },
+    {
+      "id": "the_salvation_army_healthy_breakfast_salvation_army_42",
+      "name": "Healthy Breakfast - Salvation Army",
+      "agency": "The Salvation Army",
+      "category": "Meals",
+      "address": "141, Langney Road Eastbourne, BN22 8AG",
+      "coordinates": {
+        "lat": 50.77131,
+        "lng": 0.29264
+      },
+      "openingType": "regular",
+      "hours": [
+        {
+          "day": "Fri",
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ],
+      "phone": "01323-640382",
+      "email": "eastbourne@salvationarmy.org.uk",
+      "notes": "Signposting to other agencies for help in finance and housing etc."
+    },
+    {
+      "id": "the_salvation_army_showers_salvation_army_43",
+      "name": "Showers - Salvation Army",
+      "agency": "The Salvation Army",
+      "category": "Showers",
+      "address": "141, Langney Road Eastbourne, BN22 8AG",
+      "coordinates": {
+        "lat": 50.77131,
+        "lng": 0.2927
+      },
+      "openingType": "regular",
+      "hours": [
+        {
+          "day": "Fri",
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ],
+      "phone": "01323-640382",
+      "email": "eastbourne@salvationarmy.org.uk",
+      "notes": "Signposting to other agencies for help in finance and housing etc."
+    },
+    {
+      "id": "the_salvation_army_signposting_salvation_army_44",
+      "name": "Signposting - Salvation Army",
+      "agency": "The Salvation Army",
+      "category": "Signposting",
+      "address": "141, Langney Road Eastbourne, BN22 8AG",
+      "coordinates": {
+        "lat": 50.77131,
+        "lng": 0.29274
+      },
+      "openingType": "regular",
+      "hours": [
+        {
+          "day": "Fri",
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ],
+      "phone": "01323-640382",
+      "email": "eastbourne@salvationarmy.org.uk",
+      "notes": "Signposting to other agencies for help in finance and housing etc."
+    },
+    {
+      "id": "vmc_beacon_practice_vmc_the_beacon_practice_45",
+      "name": "VMC The Beacon Practice",
+      "agency": "VMC Beacon Practice",
+      "category": "Healthcare",
+      "address": "The Beacon Centre, BN21 3NW",
+      "coordinates": {
+        "lat": 50.7694497938817,
+        "lng": 0.284930010950527
+      },
+      "openingType": "regular",
+      "hours": [
+        {
+          "day": "Mon",
+          "open": "08:00",
+          "close": "17:30"
+        },
+        {
+          "day": "Tue",
+          "open": "08:00",
+          "close": "17:30"
+        },
+        {
+          "day": "Wed",
+          "open": "08:00",
+          "close": "17:30"
+        },
+        {
+          "day": "Thu",
+          "open": "08:00",
+          "close": "17:30"
+        },
+        {
+          "day": "Fri",
+          "open": "08:00",
+          "close": "17:30"
+        }
+      ],
+      "phone": "01323 407900",
+      "email": "admin.vmc@nhs.net",
+      "website": "https://www.victoriamedicalcentre.co.uk"
+    },
+    {
+      "id": "warming_up_the_homeless_wuth_takeaway_hot_food_and_snacks_46",
+      "name": "WUTH Takeaway Hot Food and Snacks",
+      "agency": "Warming Up the Homeless",
+      "category": "Meals",
+      "address": "Terminus Road, Terminus Rd, Eastbourne BN21 3NJ",
+      "coordinates": {
+        "lat": 50.76913,
+        "lng": 0.28162
+      },
+      "openingType": "regular",
+      "hours": [
+        {
+          "day": "Mon",
+          "open": "19:30",
+          "close": "21:00"
+        },
+        {
+          "day": "Tue",
+          "open": "19:30",
+          "close": "21:00"
+        },
+        {
+          "day": "Thu",
+          "open": "19:30",
+          "close": "21:00"
+        },
+        {
+          "day": "Sat",
+          "open": "19:30",
+          "close": "21:00"
+        }
+      ]
+    },
+    {
+      "id": "warming_up_the_homeless_wuth_takeaway_hot_food_and_snacks_47",
+      "name": "WUTH Takeaway Hot Food and Snacks",
+      "agency": "Warming Up the Homeless",
+      "category": "Meals",
+      "address": "Opposite The Grand Hotel, King Edward's Parade, Eastbourne BN21 4EQ",
+      "coordinates": {
+        "lat": 50.76034,
+        "lng": 0.284133
+      },
+      "openingType": "regular",
+      "hours": [
+        {
+          "day": "Mon",
+          "open": "19:30",
+          "close": "21:00"
+        },
+        {
+          "day": "Tue",
+          "open": "19:30",
+          "close": "21:00"
+        },
+        {
+          "day": "Thu",
+          "open": "19:30",
+          "close": "21:00"
+        },
+        {
+          "day": "Sat",
+          "open": "19:30",
+          "close": "21:00"
+        }
+      ]
+    },
+    {
+      "id": "warming_up_the_homeless_wuth_evening_meal_48",
+      "name": "WUTH Evening meal",
+      "agency": "Warming Up the Homeless",
+      "category": "Meals",
+      "address": "All Souls Church Hall, Wellesley Rd, BN21 3RJ",
+      "coordinates": {
+        "lat": 50.77052,
+        "lng": 0.28824
+      },
+      "openingType": "regular",
+      "hours": [
+        {
+          "day": "Sun",
+          "open": "16:15",
+          "close": "19:00"
+        }
+      ]
+    },
+    {
+      "id": "willingdon_trees_community_centre_community_fridge_pantry_wi",
+      "name": "Community Fridge & Pantry - Willingdon Trees",
+      "agency": "Willingdon Trees Community Centre",
+      "category": "Food",
+      "address": "101 Holly Place, Hampden Park, Eastbourne, BN22 0UT",
+      "coordinates": {
+        "lat": 50.8054420955222,
+        "lng": 0.272392782116604
+      },
+      "openingType": "regular",
+      "hours": [
+        {
+          "day": "Tue",
+          "open": "10:00",
+          "close": "12:00"
+        },
+        {
+          "day": "Wed",
+          "open": "10:00",
+          "close": "12:00"
+        },
+        {
+          "day": "Fri",
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ],
+      "phone": "01323 504438",
+      "email": "hello@willingdontrees.org.uk",
+      "notes": "Community fridge: 10 items £2. £1 Wed breakfast. Over-50s group Fridays."
+    },
+    {
+      "id": "ymca_downslink_group_ymca_eastbourne_foyer_50",
+      "name": "YMCA Eastbourne Foyer",
+      "agency": "YMCA Downslink Group",
+      "category": "Accommodation",
+      "address": "40 St Leonards Road, Eastbourne, BN21 3LZ",
+      "coordinates": {
+        "lat": 50.7722769410336,
+        "lng": 0.28347566862169
+      },
+      "openingType": "regular",
+      "hours": [
+        {
+          "day": "Mon",
+          "open": "09:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Tue",
+          "open": "09:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Wed",
+          "open": "09:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Thu",
+          "open": "09:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Fri",
+          "open": "09:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Sat",
+          "open": "09:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Sun",
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "phone": "01323 735618",
+      "website": "https://ymcadlg.org.uk",
+      "notes": "Supported housing for single homeless young people aged 16–25."
+    },
+    {
+      "id": "ymca_downslink_group_ymca_transitional_accommodation_eastbou",
+      "name": "YMCA Transitional accommodation - Eastbourne",
+      "agency": "YMCA Downslink Group",
+      "category": "Accommodation",
+      "address": "Various locations",
+      "coordinates": {
+        "lat": 50.7721164357712,
+        "lng": 0.283168726776724
+      },
+      "openingType": "regular",
+      "hours": [
+        {
+          "day": "Mon",
+          "open": "09:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Tue",
+          "open": "09:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Wed",
+          "open": "09:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Thu",
+          "open": "09:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Fri",
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "phone": "01323 735618",
+      "website": "https://ymcadlg.org.uk",
+      "notes": "Supported housing for single homeless young people aged 16–25."
+    },
+    {
+      "id": "ymca_downslink_group_ymca_transitional_accommodation_hailsha",
+      "name": "YMCA Transitional accommodation - Hailsham",
+      "agency": "YMCA Downslink Group",
+      "category": "Accommodation",
+      "address": "1 Market Square, Hailsham",
+      "coordinates": {
+        "lat": 50.86246282496,
+        "lng": 0.260863255132324
+      },
+      "openingType": "regular",
+      "hours": [
+        {
+          "day": "Mon",
+          "open": "09:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Tue",
+          "open": "09:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Wed",
+          "open": "09:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Thu",
+          "open": "09:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Fri",
+          "open": "09:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Sat",
+          "open": "09:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Sun",
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "phone": "01323 847900",
+      "website": "https://ymcadlg.org.uk",
+      "notes": "Supported housing for single homeless young people aged 16–25."
     }
   ]
 }
