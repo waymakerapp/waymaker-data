@@ -1,10 +1,10 @@
 {
-  "version": "202603101653",
-  "generated": "2026-03-10T16:53:24.320869Z",
+  "version": "202603101655",
+  "generated": "2026-03-10T16:55:56.448143Z",
   "services": [
     {
-      "id": "bht_sussex_bht_eastbourne_advice_test_update_2",
-      "name": "BHT Eastbourne Advice (Test Update)",
+      "id": "bht_sussex_bht_eastbourne_advice_2",
+      "name": "BHT Eastbourne Advice",
       "agency": "BHT Sussex",
       "category": "Advice",
       "address": "Highlight House, 8 St Leonards Road, Eastbourne, BN21 3UH",
