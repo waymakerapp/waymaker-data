@@ -1,6 +1,6 @@
 {
-  "version": "202603111618",
-  "generated": "2026-03-11T16:20:20.833136Z",
+  "version": "202603121517",
+  "generated": "2026-03-12T15:17:54.515284Z",
   "services": [
     {
       "id": "bht_sussex_bht_eastbourne_advice_2",
@@ -427,7 +427,7 @@
       "id": "foodbank_foodbank_st_elisabeth_s_14",
       "name": "Foodbank - St Elisabeth's",
       "agency": "Foodbank",
-      "category": "Café",
+      "category": "Cafe",
       "address": "St Elisabeth's Church Centre, 268 Victoria Drive, BN20 8QX",
       "coordinates": {
         "lat": 50.78359,
@@ -449,7 +449,7 @@
       "id": "foodbank_foodbank_all_souls_15",
       "name": "Foodbank - All Souls",
       "agency": "Foodbank",
-      "category": "Café",
+      "category": "Cafe",
       "address": "All Souls Church Hall, Wellesley Rd, BN21 3RJ",
       "coordinates": {
         "lat": 50.7705878,
@@ -471,7 +471,7 @@
       "id": "foodbank_foodbank_gateway_christian_centre_16",
       "name": "Foodbank - Gateway Christian Centre",
       "agency": "Foodbank",
-      "category": "Café",
+      "category": "Cafe",
       "address": "Gateway Christian Centre, 66-70 Lottbridge Drive, BN22 9PB",
       "coordinates": {
         "lat": 50.80016,
@@ -653,7 +653,7 @@
       "id": "langney_community_centre_caf_langney_community_centre_24",
       "name": "Café Langney Community Centre",
       "agency": "Langney Community Centre",
-      "category": "Café",
+      "category": "Cafe",
       "address": "Langney community centre Etchinham Rd BN23 7DX",
       "coordinates": {
         "lat": 50.7972721,
