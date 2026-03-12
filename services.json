@@ -1,6 +1,6 @@
 {
-  "version": "202603101655",
-  "generated": "2026-03-10T16:57:56.448143Z",
+  "version": "202603111618",
+  "generated": "2026-03-11T16:20:20.833136Z",
   "services": [
     {
       "id": "bht_sussex_bht_eastbourne_advice_2",
@@ -9,8 +9,8 @@
       "category": "Advice",
       "address": "Highlight House, 8 St Leonards Road, Eastbourne, BN21 3UH",
       "coordinates": {
-        "lat": 50.7705090720842,
-        "lng": 0.280420174173472
+        "lat": 50.7705871,
+        "lng": 0.2808708
       },
       "openingType": "regular",
       "hours": [
@@ -62,8 +62,8 @@
       "category": "Substance Misuse",
       "address": "5 North St, Eastbourne BN21 3HG",
       "coordinates": {
-        "lat": 50.768313224798,
-        "lng": 0.289382197457046
+        "lat": 50.76831322,
+        "lng": 0.2893821975
       },
       "openingType": "regular",
       "hours": [
@@ -113,8 +113,8 @@
       "category": "Substance Misuse",
       "address": "Lift House, 6 St Leonard's Rd, Eastbourne BN21 3UH",
       "coordinates": {
-        "lat": 50.7705704021735,
-        "lng": 0.280121153279526
+        "lat": 50.7705365,
+        "lng": 0.2800246
       },
       "openingType": "regular",
       "hours": [
@@ -151,8 +151,8 @@
       "category": "Advice",
       "address": "Highlight House, 8 St Leonard's Rd, Eastbourne BN21 3UH",
       "coordinates": {
-        "lat": 50.7706117315717,
-        "lng": 0.280384010950567
+        "lat": 50.7705303,
+        "lng": 0.2804913
       },
       "openingType": "regular",
       "hours": [
@@ -189,8 +189,8 @@
       "category": "Employment",
       "address": "St Annes House, 2 St Anne's Rd, Eastbourne BN21 3XX",
       "coordinates": {
-        "lat": 50.7716786280124,
-        "lng": 0.2817676821151
+        "lat": 50.77167863,
+        "lng": 0.2817676821
       },
       "openingType": "regular",
       "hours": [
@@ -236,8 +236,8 @@
       "category": "Advice",
       "address": "Countywide",
       "coordinates": {
-        "lat": 50.7692497222408,
-        "lng": 0.279904480724239
+        "lat": 50.76924972,
+        "lng": 0.2799044807
       },
       "openingType": "regular",
       "hours": [
@@ -278,8 +278,8 @@
       "category": "Accommodation",
       "address": "1 Grove Road, Eastbourne, BN21 4TJ",
       "coordinates": {
-        "lat": 50.7687303,
-        "lng": 0.2791447
+        "lat": 50.7687727,
+        "lng": 0.2790133
       },
       "openingType": "regular",
       "hours": [
@@ -318,8 +318,8 @@
       "category": "Advice",
       "address": "St Richard's Church Centre, Priory Road/Etchingham Road\nBN23 7AX",
       "coordinates": {
-        "lat": 50.79589,
-        "lng": 0.3146
+        "lat": 50.7958781,
+        "lng": 0.314195
       },
       "openingType": "regular",
       "hours": [
@@ -341,8 +341,8 @@
       "category": "Advice",
       "address": "Langney community centre Etchinham Rd BN23 7DX",
       "coordinates": {
-        "lat": 50.79712,
-        "lng": 0.31306
+        "lat": 50.797059,
+        "lng": 0.3129473
       },
       "openingType": "regular",
       "hours": [
@@ -364,8 +364,8 @@
       "category": "Advice",
       "address": "St Elisabeth's Church Centre, 268 Victoria Drive, BN20 8QX",
       "coordinates": {
-        "lat": 50.78359,
-        "lng": 0.25453
+        "lat": 50.7835892,
+        "lng": 0.2543436
       },
       "openingType": "regular",
       "hours": [
@@ -386,8 +386,8 @@
       "category": "Advice",
       "address": "All Souls Church Hall, Wellesley Rd, BN21 3RJ",
       "coordinates": {
-        "lat": 50.77066,
-        "lng": 0.28808
+        "lat": 50.7706719,
+        "lng": 0.2880827
       },
       "openingType": "regular",
       "hours": [
@@ -408,8 +408,8 @@
       "category": "Advice",
       "address": "Gateway Christian Centre, 66-70 Lottbridge Drive, BN22 9PB",
       "coordinates": {
-        "lat": 50.80016,
-        "lng": 0.27953
+        "lat": 50.8001566,
+        "lng": 0.2794442
       },
       "openingType": "regular",
       "hours": [
@@ -431,7 +431,7 @@
       "address": "St Elisabeth's Church Centre, 268 Victoria Drive, BN20 8QX",
       "coordinates": {
         "lat": 50.78359,
-        "lng": 0.25459
+        "lng": 0.2544894
       },
       "openingType": "regular",
       "hours": [
@@ -452,8 +452,8 @@
       "category": "Café",
       "address": "All Souls Church Hall, Wellesley Rd, BN21 3RJ",
       "coordinates": {
-        "lat": 50.77062,
-        "lng": 0.28813
+        "lat": 50.7705878,
+        "lng": 0.2878899
       },
       "openingType": "regular",
       "hours": [
@@ -475,7 +475,7 @@
       "address": "Gateway Christian Centre, 66-70 Lottbridge Drive, BN22 9PB",
       "coordinates": {
         "lat": 50.80016,
-        "lng": 0.27959
+        "lng": 0.2797563
       },
       "openingType": "regular",
       "hours": [
@@ -496,8 +496,8 @@
       "category": "Food",
       "address": "Langney community centre Etchinham Rd BN23 7DX",
       "coordinates": {
-        "lat": 50.79712,
-        "lng": 0.31311
+        "lat": 50.7971471,
+        "lng": 0.3134077
       },
       "openingType": "regular",
       "hours": [
@@ -541,8 +541,8 @@
       "category": "Food",
       "address": "All Souls Church Hall, Wellesley Rd, BN21 3RJ",
       "coordinates": {
-        "lat": 50.77057,
-        "lng": 0.28817
+        "lat": 50.7704301,
+        "lng": 0.2880694
       },
       "openingType": "regular",
       "hours": [
@@ -563,8 +563,8 @@
       "category": "Food",
       "address": "Gateway Christian Centre, 66-70 Lottbridge Drive, BN22 9PB",
       "coordinates": {
-        "lat": 50.80016,
-        "lng": 0.27966
+        "lat": 50.8001583,
+        "lng": 0.2800167
       },
       "openingType": "regular",
       "hours": [
@@ -585,8 +585,8 @@
       "category": "Food",
       "address": "St Saviour's Church, South Street, BN21 4UT",
       "coordinates": {
-        "lat": 50.7661703910075,
-        "lng": 0.28289141095037
+        "lat": 50.76617039,
+        "lng": 0.282891411
       },
       "openingType": "regular",
       "hours": [
@@ -607,8 +607,8 @@
       "category": "Food Voucher",
       "address": "St Richard's Church Centre, Priory Road/Etchingham Road\nBN23 7AX",
       "coordinates": {
-        "lat": 50.7958963996933,
-        "lng": 0.314654231839816
+        "lat": 50.7958862,
+        "lng": 0.3146569
       },
       "openingType": "regular",
       "hours": [
@@ -630,8 +630,8 @@
       "category": "Refreshments",
       "address": "The Way, 91-93 Seaside Road, Eastbourne, BN21 3PL",
       "coordinates": {
-        "lat": 50.7683131078461,
-        "lng": 0.291309782025832
+        "lat": 50.7682741,
+        "lng": 0.2912615
       },
       "openingType": "variable",
       "hours": [
@@ -656,8 +656,8 @@
       "category": "Café",
       "address": "Langney community centre Etchinham Rd BN23 7DX",
       "coordinates": {
-        "lat": 50.79715,
-        "lng": 0.31306
+        "lat": 50.7972721,
+        "lng": 0.3128347
       },
       "openingType": "regular",
       "hours": [
@@ -681,8 +681,8 @@
       "category": "Clothing",
       "address": "Langney community centre Etchinham Rd BN23 7DX",
       "coordinates": {
-        "lat": 50.79715,
-        "lng": 0.31312
+        "lat": 50.7971941,
+        "lng": 0.3131307
       },
       "openingType": "regular",
       "hours": [
@@ -723,8 +723,8 @@
       "category": "Food",
       "address": "Langney community centre Etchinham Rd BN23 7DX",
       "coordinates": {
-        "lat": 50.79715,
-        "lng": 0.31318
+        "lat": 50.7971466,
+        "lng": 0.313408
       },
       "openingType": "regular",
       "hours": [
@@ -749,8 +749,8 @@
       "category": "Tech Access",
       "address": "Langney community centre Etchinham Rd BN23 7DX",
       "coordinates": {
-        "lat": 50.79715,
-        "lng": 0.31324
+        "lat": 50.7973314,
+        "lng": 0.3132722
       },
       "openingType": "variable",
       "hours": [
@@ -768,8 +768,8 @@
       "category": "Advice",
       "address": "Lewes based office",
       "coordinates": {
-        "lat": 50.8741689492553,
-        "lng": 0.0150972072230132
+        "lat": 50.87416895,
+        "lng": 0.01509720722
       },
       "openingType": "regular",
       "hours": [
@@ -804,8 +804,8 @@
       "category": "Signposting",
       "address": "Kings Church, Unit 3, Brooks Rd, Lewes, BN7 2BY",
       "coordinates": {
-        "lat": 50.8777931672701,
-        "lng": 0.0162735802711778
+        "lat": 50.87779317,
+        "lng": 0.01627358027
       },
       "openingType": "regular",
       "hours": [
@@ -827,8 +827,8 @@
       "category": "Tech Access",
       "address": "Grove Rd, Eastbourne BN21 4TL",
       "coordinates": {
-        "lat": 50.7686962372955,
-        "lng": 0.279333748475316
+        "lat": 50.768681,
+        "lng": 0.279543
       },
       "openingType": "regular",
       "hours": [
@@ -874,8 +874,8 @@
       "category": "Advice",
       "address": "Brodie Hall, Christchurch, Seaside, Eastbourne, BN22 7NN",
       "coordinates": {
-        "lat": 50.77444,
-        "lng": 0.29638
+        "lat": 50.7744782,
+        "lng": 0.2963465
       },
       "openingType": "regular",
       "hours": [
@@ -893,8 +893,8 @@
       "category": "Haircut",
       "address": "Brodie Hall, Christchurch, Seaside, Eastbourne, BN22 7NN",
       "coordinates": {
-        "lat": 50.77444,
-        "lng": 0.29649
+        "lat": 50.7743196,
+        "lng": 0.2964377
       },
       "openingType": "variable",
       "hours": [
@@ -911,8 +911,8 @@
       "category": "Meals",
       "address": "Brodie Hall, Christchurch, Seaside, Eastbourne, BN22 7NN",
       "coordinates": {
-        "lat": 50.77444,
-        "lng": 0.29661
+        "lat": 50.7744799,
+        "lng": 0.2965845
       },
       "openingType": "regular",
       "hours": [
@@ -975,8 +975,8 @@
       "category": "Tech Access",
       "address": "Brodie Hall, Christchurch, Seaside, Eastbourne, BN22 7NN",
       "coordinates": {
-        "lat": 50.77444,
-        "lng": 0.29672
+        "lat": 50.7743264,
+        "lng": 0.2967415
       },
       "openingType": "variable",
       "hours": [
@@ -993,8 +993,8 @@
       "category": "Legal",
       "address": "35 Old Orchard Road,  BN21 1DD",
       "coordinates": {
-        "lat": 50.767492270625,
-        "lng": 0.27739929745699
+        "lat": 50.76749227,
+        "lng": 0.2773992975
       },
       "openingType": "regular",
       "hours": [
@@ -1034,8 +1034,8 @@
       "category": "Clothing",
       "address": "Shinewater Family Hub, Milfoil Drive, Eastbourne, BN23 8ED",
       "coordinates": {
-        "lat": 50.80942,
-        "lng": 0.29417
+        "lat": 50.8094666,
+        "lng": 0.2940895
       },
       "openingType": "regular",
       "hours": [
@@ -1071,8 +1071,8 @@
       "category": "Food",
       "address": "Shinewater Family Hub, Milfoil Drive, Eastbourne, BN23 8ED",
       "coordinates": {
-        "lat": 50.80942,
-        "lng": 0.29422
+        "lat": 50.8093208,
+        "lng": 0.2943675
       },
       "openingType": "regular",
       "hours": [
@@ -1108,8 +1108,8 @@
       "category": "Legal",
       "address": "1 Grove Rd, Eastbourne BN21 4TL",
       "coordinates": {
-        "lat": 50.7685044277597,
-        "lng": 0.279379190972433
+        "lat": 50.7683568,
+        "lng": 0.2794462
       },
       "openingType": "regular",
       "hours": [
@@ -1154,8 +1154,8 @@
       "category": "Tech Access",
       "address": "23a Cavendish Place, BN21 3EJ",
       "coordinates": {
-        "lat": 50.7683431,
-        "lng": 0.291862010950456
+        "lat": 50.768321,
+        "lng": 0.2920578
       },
       "openingType": "regular",
       "hours": [
@@ -1180,8 +1180,8 @@
       "category": "Laundry",
       "address": "141, Langney Road Eastbourne, BN22 8AG",
       "coordinates": {
-        "lat": 50.77131,
-        "lng": 0.29253
+        "lat": 50.7713779,
+        "lng": 0.2924723
       },
       "openingType": "regular",
       "hours": [
@@ -1202,8 +1202,8 @@
       "category": "Meals",
       "address": "141, Langney Road Eastbourne, BN22 8AG",
       "coordinates": {
-        "lat": 50.7713,
-        "lng": 0.29258
+        "lat": 50.7712871,
+        "lng": 0.2929358
       },
       "openingType": "regular",
       "hours": [
@@ -1228,8 +1228,8 @@
       "category": "Meals",
       "address": "141, Langney Road Eastbourne, BN22 8AG",
       "coordinates": {
-        "lat": 50.77131,
-        "lng": 0.29264
+        "lat": 50.7712133,
+        "lng": 0.2925984
       },
       "openingType": "regular",
       "hours": [
@@ -1250,8 +1250,8 @@
       "category": "Showers",
       "address": "141, Langney Road Eastbourne, BN22 8AG",
       "coordinates": {
-        "lat": 50.77131,
-        "lng": 0.2927
+        "lat": 50.7713465,
+        "lng": 0.2927174
       },
       "openingType": "regular",
       "hours": [
@@ -1272,8 +1272,8 @@
       "category": "Signposting",
       "address": "141, Langney Road Eastbourne, BN22 8AG",
       "coordinates": {
-        "lat": 50.77131,
-        "lng": 0.29274
+        "lat": 50.7714729,
+        "lng": 0.2928218
       },
       "openingType": "regular",
       "hours": [
@@ -1294,8 +1294,8 @@
       "category": "Healthcare",
       "address": "The Beacon Centre, BN21 3NW",
       "coordinates": {
-        "lat": 50.7694497938817,
-        "lng": 0.284930010950527
+        "lat": 50.76944979,
+        "lng": 0.284930011
       },
       "openingType": "regular",
       "hours": [
@@ -1404,8 +1404,8 @@
       "category": "Meals",
       "address": "All Souls Church Hall, Wellesley Rd, BN21 3RJ",
       "coordinates": {
-        "lat": 50.77052,
-        "lng": 0.28824
+        "lat": 50.7705183,
+        "lng": 0.2882507
       },
       "openingType": "regular",
       "hours": [
@@ -1423,8 +1423,8 @@
       "category": "Food",
       "address": "101 Holly Place, Hampden Park, Eastbourne, BN22 0UT",
       "coordinates": {
-        "lat": 50.8054420955222,
-        "lng": 0.272392782116604
+        "lat": 50.8054421,
+        "lng": 0.2723927821
       },
       "openingType": "regular",
       "hours": [
@@ -1455,8 +1455,8 @@
       "category": "Accommodation",
       "address": "40 St Leonards Road, Eastbourne, BN21 3LZ",
       "coordinates": {
-        "lat": 50.7722769410336,
-        "lng": 0.28347566862169
+        "lat": 50.77227694,
+        "lng": 0.2834756686
       },
       "openingType": "regular",
       "hours": [
@@ -1507,8 +1507,8 @@
       "category": "Accommodation",
       "address": "Various locations",
       "coordinates": {
-        "lat": 50.7721164357712,
-        "lng": 0.283168726776724
+        "lat": 50.77211644,
+        "lng": 0.2831687268
       },
       "openingType": "regular",
       "hours": [
@@ -1549,8 +1549,8 @@
       "category": "Accommodation",
       "address": "1 Market Square, Hailsham",
       "coordinates": {
-        "lat": 50.86246282496,
-        "lng": 0.260863255132324
+        "lat": 50.86246282,
+        "lng": 0.2608632551
       },
       "openingType": "regular",
       "hours": [
@@ -1596,4 +1596,3 @@
     }
   ]
 }
-
