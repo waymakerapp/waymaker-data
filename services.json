@@ -1,6 +1,6 @@
 {
-  "version": "202603121532",
-  "generated": "2026-03-12T15:32:08.819879Z",
+  "version": "202603141746",
+  "generated": "2026-03-14T17:46:20.243023Z",
   "services": [
     {
       "id": "bht_sussex_bht_eastbourne_advice_2",
@@ -759,7 +759,8 @@
           "note": "13:00-15:00"
         }
       ],
-      "phone": "01323 763762"
+      "phone": "01323 763762",
+      "notes": "Open 2nd Tuesday of each month"
     },
     {
       "id": "lewes_district_churches_homelink_homelink_housing_and_homele",
@@ -902,7 +903,8 @@
           "day": "Fri",
           "note": "09:20-12:00"
         }
-      ]
+      ],
+      "notes": "Open last Friday of each month"
     },
     {
       "id": "matthew_25_mission_m25_healthy_breakfast_and_healthy_lunch_3",
@@ -984,7 +986,8 @@
           "day": "Mon",
           "note": "10:00-11:30"
         }
-      ]
+      ],
+      "notes": "Open 1st Friday of each month"
     },
     {
       "id": "probation_office_probation_contact_centre_35",
