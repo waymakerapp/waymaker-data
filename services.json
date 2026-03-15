@@ -1,6 +1,6 @@
 {
-  "version": "202603141746",
-  "generated": "2026-03-14T17:46:20.243023Z",
+  "version": "202603150802",
+  "generated": "2026-03-15T08:02:46.532907Z",
   "services": [
     {
       "id": "bht_sussex_bht_eastbourne_advice_2",
@@ -987,7 +987,7 @@
           "note": "10:00-11:30"
         }
       ],
-      "notes": "Open 1st Friday of each month"
+      "notes": "Open 1st Monday of each month"
     },
     {
       "id": "probation_office_probation_contact_centre_35",
