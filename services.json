@@ -1,6 +1,6 @@
 {
-  "version": "202603150802",
-  "generated": "2026-03-15T08:02:46.532907Z",
+  "version": "202603150806",
+  "generated": "2026-03-15T08:06:30.602404Z",
   "services": [
     {
       "id": "bht_sussex_bht_eastbourne_advice_2",
@@ -644,6 +644,10 @@
           "note": "10:30-15:30"
         }
       ],
+      "openingWeeks": [
+        "week2",
+        "week4"
+      ],
       "phone": "07522 552117",
       "email": "theway@kingdomwaytrust.org",
       "website": "https://www.kingdomwaytrust.org/the-way",
@@ -758,6 +762,9 @@
           "day": "Tue",
           "note": "13:00-15:00"
         }
+      ],
+      "openingWeeks": [
+        "week2"
       ],
       "phone": "01323 763762",
       "notes": "Open 2nd Tuesday of each month"
@@ -904,6 +911,9 @@
           "note": "09:20-12:00"
         }
       ],
+      "openingWeeks": [
+        "skip_open_now"
+      ],
       "notes": "Open last Friday of each month"
     },
     {
@@ -986,6 +996,9 @@
           "day": "Mon",
           "note": "10:00-11:30"
         }
+      ],
+      "openingWeeks": [
+        "week1"
       ],
       "notes": "Open 1st Monday of each month"
     },
