@@ -1,6 +1,6 @@
 {
-  "version": "202604301319",
-  "generated": "2026-04-30T13:19:02.621677Z",
+  "version": "202604301328",
+  "generated": "2026-04-30T13:28:47.402955Z",
   "services": [
     {
       "id": "bht_sussex_bht_eastbourne_advice_2",
@@ -672,35 +672,35 @@
         "lat": 50.8054799539137,
         "lng": 0.06681181840782
       },
-      "openingType": "variable",
+      "openingType": "regular",
       "hours": [
         {
           "day": "Mon",
-          "note": "09:00:00"
+          "note": "09:00-"
         },
         {
           "day": "Tue",
-          "note": "09:00:00"
+          "note": "09:00-"
         },
         {
           "day": "Wed",
-          "note": "09:00:00"
+          "note": "09:00-"
         },
         {
           "day": "Thu",
-          "note": "09:00:00"
+          "note": "09:00-"
         },
         {
           "day": "Fri",
-          "note": "09:00:00"
+          "note": "09:00-"
         },
         {
           "day": "Sat",
-          "note": "09:00:00"
+          "note": "09:00-"
         },
         {
           "day": "Sun",
-          "note": "09:00:00"
+          "note": "09:00-"
         }
       ],
       "notes": "Surplus food such as pastries, bread and fruit and vegetables are placed outside to be taken 7 days a week from 9 am until supplies run out"
