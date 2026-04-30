@@ -1,6 +1,6 @@
 {
-  "version": "202603150806",
-  "generated": "2026-03-15T08:06:30.602404Z",
+  "version": "202604301319",
+  "generated": "2026-04-30T13:19:02.621677Z",
   "services": [
     {
       "id": "bht_sussex_bht_eastbourne_advice_2",
@@ -624,7 +624,89 @@
       "notes": "No food is available"
     },
     {
-      "id": "kingdom_way_trust_weekend_drop_in_kingdom_way_trust_23",
+      "id": "havens_hub_hillcrest_breakfast_23",
+      "name": "Hillcrest Breakfast",
+      "agency": "Havens Hub",
+      "category": "Meals",
+      "address": "Hillcrest Community Center, Bay Vue Road, Newhaven, BN9 9LH",
+      "coordinates": {
+        "lat": 50.7911539890394,
+        "lng": 0.049313013493426
+      },
+      "openingType": "regular",
+      "hours": [
+        {
+          "day": "Mon",
+          "open": "09:00",
+          "close": "10:15"
+        },
+        {
+          "day": "Tue",
+          "open": "09:00",
+          "close": "10:15"
+        },
+        {
+          "day": "Wed",
+          "open": "09:00",
+          "close": "10:15"
+        },
+        {
+          "day": "Thu",
+          "open": "09:00",
+          "close": "10:15"
+        },
+        {
+          "day": "Fri",
+          "open": "09:00",
+          "close": "10:15"
+        }
+      ]
+    },
+    {
+      "id": "havens_hub_the_pantry_havens_community_hub_24",
+      "name": "The Pantry @ Havens Community Hub",
+      "agency": "Havens Hub",
+      "category": "Food",
+      "address": "Havens Community Hub, 2a Thompson Road, Newhaven, BN9 0RS",
+      "coordinates": {
+        "lat": 50.8054799539137,
+        "lng": 0.06681181840782
+      },
+      "openingType": "variable",
+      "hours": [
+        {
+          "day": "Mon",
+          "note": "09:00:00"
+        },
+        {
+          "day": "Tue",
+          "note": "09:00:00"
+        },
+        {
+          "day": "Wed",
+          "note": "09:00:00"
+        },
+        {
+          "day": "Thu",
+          "note": "09:00:00"
+        },
+        {
+          "day": "Fri",
+          "note": "09:00:00"
+        },
+        {
+          "day": "Sat",
+          "note": "09:00:00"
+        },
+        {
+          "day": "Sun",
+          "note": "09:00:00"
+        }
+      ],
+      "notes": "Surplus food such as pastries, bread and fruit and vegetables are placed outside to be taken 7 days a week from 9 am until supplies run out"
+    },
+    {
+      "id": "kingdom_way_trust_weekend_drop_in_kingdom_way_trust_25",
       "name": "Weekend Drop-In  Kingdom Way Trust",
       "agency": "Kingdom Way Trust",
       "category": "Refreshments",
@@ -654,7 +736,7 @@
       "notes": "Open 2nd & 4th weekend of month"
     },
     {
-      "id": "langney_community_centre_caf_langney_community_centre_24",
+      "id": "langney_community_centre_caf_langney_community_centre_26",
       "name": "Café Langney Community Centre",
       "agency": "Langney Community Centre",
       "category": "Cafe",
@@ -721,7 +803,7 @@
       "notes": "clothing avaible from donations in lobby"
     },
     {
-      "id": "langney_community_centre_langney_community_fridge_26",
+      "id": "langney_community_centre_langney_community_fridge_28",
       "name": "Langney Community Fridge",
       "agency": "Langney Community Centre",
       "category": "Food",
@@ -829,7 +911,7 @@
       "notes": "Support, referrals, clothing & emergency outreach for homeless or at risk."
     },
     {
-      "id": "library_library_services_30",
+      "id": "library_library_services_32",
       "name": "Library Services",
       "agency": "Library",
       "category": "Tech Access",
@@ -876,7 +958,7 @@
       "notes": "Free access to computers and the internet, Free wifi"
     },
     {
-      "id": "matthew_25_mission_citizens_advice_bureau_service_31",
+      "id": "matthew_25_mission_citizens_advice_bureau_service_33",
       "name": "Citizens Advice Bureau service",
       "agency": "Matthew 25 Mission",
       "category": "Advice",
@@ -895,7 +977,7 @@
       ]
     },
     {
-      "id": "matthew_25_mission_barber_32",
+      "id": "matthew_25_mission_barber_34",
       "name": "Barber",
       "agency": "Matthew 25 Mission",
       "category": "Haircut",
@@ -981,7 +1063,7 @@
       ]
     },
     {
-      "id": "matthew_25_mission_tech_resort_34",
+      "id": "matthew_25_mission_tech_resort_36",
       "name": "Tech Resort",
       "agency": "Matthew 25 Mission",
       "category": "Tech Access",
@@ -1003,7 +1085,7 @@
       "notes": "Open 1st Monday of each month"
     },
     {
-      "id": "probation_office_probation_contact_centre_35",
+      "id": "probation_office_probation_contact_centre_37",
       "name": "Probation contact centre",
       "agency": "Probation Office",
       "category": "Legal",
@@ -1044,7 +1126,7 @@
       "email": "KSSPSEastbourne@justice.gov.uk"
     },
     {
-      "id": "shinewater_community_fridge_shinewater_community_clothing_36",
+      "id": "shinewater_community_fridge_shinewater_community_clothing_38",
       "name": "Shinewater Community Clothing",
       "agency": "Shinewater Community Fridge",
       "category": "Clothing",
@@ -1081,7 +1163,7 @@
       "notes": "Fruit & veg, pay-what-you-can. Some clothing, books & toiletries available."
     },
     {
-      "id": "shinewater_community_fridge_shinewater_community_fridge_37",
+      "id": "shinewater_community_fridge_shinewater_community_fridge_39",
       "name": "Shinewater Community Fridge",
       "agency": "Shinewater Community Fridge",
       "category": "Food",
@@ -1118,7 +1200,7 @@
       "notes": "Fruit & veg, pay-what-you-can. Some clothing, books & toiletries available."
     },
     {
-      "id": "sussex_police_police_station_38",
+      "id": "sussex_police_police_station_40",
       "name": "Police station",
       "agency": "Sussex Police",
       "category": "Legal",
@@ -1164,7 +1246,7 @@
       "email": "01273 470171"
     },
     {
-      "id": "tech_resort_tech_resort_39",
+      "id": "tech_resort_tech_resort_41",
       "name": "Tech Resort",
       "agency": "Tech Resort",
       "category": "Tech Access",
@@ -1190,7 +1272,7 @@
       "notes": "Tackling digital exclusion and sharing digital skills"
     },
     {
-      "id": "the_salvation_army_laundry_salvation_army_40",
+      "id": "the_salvation_army_laundry_salvation_army_42",
       "name": "Laundry - Salvation Army",
       "agency": "The Salvation Army",
       "category": "Laundry",
@@ -1212,7 +1294,7 @@
       "notes": "Signposting to other agencies for help in finance and housing etc."
     },
     {
-      "id": "the_salvation_army_evening_meals_salvation_army_41",
+      "id": "the_salvation_army_evening_meals_salvation_army_43",
       "name": "Evening meals - Salvation Army",
       "agency": "The Salvation Army",
       "category": "Meals",
@@ -1238,7 +1320,7 @@
       "email": "eastbourne@salvationarmy.org.uk"
     },
     {
-      "id": "the_salvation_army_healthy_breakfast_salvation_army_42",
+      "id": "the_salvation_army_healthy_breakfast_salvation_army_44",
       "name": "Healthy Breakfast - Salvation Army",
       "agency": "The Salvation Army",
       "category": "Meals",
@@ -1260,7 +1342,7 @@
       "notes": "Signposting to other agencies for help in finance and housing etc."
     },
     {
-      "id": "the_salvation_army_showers_salvation_army_43",
+      "id": "the_salvation_army_showers_salvation_army_45",
       "name": "Showers - Salvation Army",
       "agency": "The Salvation Army",
       "category": "Showers",
@@ -1282,7 +1364,7 @@
       "notes": "Signposting to other agencies for help in finance and housing etc."
     },
     {
-      "id": "the_salvation_army_signposting_salvation_army_44",
+      "id": "the_salvation_army_signposting_salvation_army_46",
       "name": "Signposting - Salvation Army",
       "agency": "The Salvation Army",
       "category": "Signposting",
@@ -1304,7 +1386,7 @@
       "notes": "Signposting to other agencies for help in finance and housing etc."
     },
     {
-      "id": "vmc_beacon_practice_vmc_the_beacon_practice_45",
+      "id": "vmc_beacon_practice_vmc_the_beacon_practice_47",
       "name": "VMC The Beacon Practice",
       "agency": "VMC Beacon Practice",
       "category": "Healthcare",
@@ -1346,7 +1428,7 @@
       "website": "https://www.victoriamedicalcentre.co.uk"
     },
     {
-      "id": "warming_up_the_homeless_wuth_takeaway_hot_food_and_snacks_46",
+      "id": "warming_up_the_homeless_wuth_takeaway_hot_food_and_snacks_48",
       "name": "WUTH Takeaway Hot Food and Snacks",
       "agency": "Warming Up the Homeless",
       "category": "Meals",
@@ -1380,7 +1462,7 @@
       ]
     },
     {
-      "id": "warming_up_the_homeless_wuth_takeaway_hot_food_and_snacks_47",
+      "id": "warming_up_the_homeless_wuth_takeaway_hot_food_and_snacks_49",
       "name": "WUTH Takeaway Hot Food and Snacks",
       "agency": "Warming Up the Homeless",
       "category": "Meals",
@@ -1414,7 +1496,7 @@
       ]
     },
     {
-      "id": "warming_up_the_homeless_wuth_evening_meal_48",
+      "id": "warming_up_the_homeless_wuth_evening_meal_50",
       "name": "WUTH Evening meal",
       "agency": "Warming Up the Homeless",
       "category": "Meals",
@@ -1465,7 +1547,7 @@
       "notes": "Community fridge: 10 items £2. £1 Wed breakfast. Over-50s group Fridays."
     },
     {
-      "id": "ymca_downslink_group_ymca_eastbourne_foyer_50",
+      "id": "ymca_downslink_group_ymca_eastbourne_foyer_52",
       "name": "YMCA Eastbourne Foyer",
       "agency": "YMCA Downslink Group",
       "category": "Accommodation",
