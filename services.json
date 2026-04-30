@@ -1,6 +1,6 @@
 {
-  "version": "202604301328",
-  "generated": "2026-04-30T13:28:47.402955Z",
+  "version": "202604301332",
+  "generated": "2026-04-30T13:32:14.572692Z",
   "services": [
     {
       "id": "bht_sussex_bht_eastbourne_advice_2",
@@ -672,7 +672,7 @@
         "lat": 50.8054799539137,
         "lng": 0.06681181840782
       },
-      "openingType": "regular",
+      "openingType": "variable",
       "hours": [
         {
           "day": "Mon",
