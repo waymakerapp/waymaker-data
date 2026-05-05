@@ -1,6 +1,6 @@
 {
-  "version": "202605051416",
-  "generated": "2026-05-05T14:16:50.955702Z",
+  "version": "202605051507",
+  "generated": "2026-05-05T15:07:47.980541Z",
   "services": [
     {
       "id": "bht_sussex_bht_eastbourne_advice_2",
@@ -676,39 +676,43 @@
         "lat": 50.8054799539137,
         "lng": 0.06681181840782
       },
-      "openingType": "variable",
+      "openingType": "regular",
       "hours": [
         {
           "day": "Mon",
-          "note": "09:00-17:00"
+          "open": "09:00",
+          "close": "17:00"
         },
         {
           "day": "Tue",
-          "note": "09:00-17:00"
+          "open": "09:00",
+          "close": "17:00"
         },
         {
           "day": "Wed",
-          "note": "09:00-17:00"
+          "open": "09:00",
+          "close": "17:00"
         },
         {
           "day": "Thu",
-          "note": "09:00-17:00"
+          "open": "09:00",
+          "close": "17:00"
         },
         {
           "day": "Fri",
-          "note": "09:00-17:00"
+          "open": "09:00",
+          "close": "17:00"
         },
         {
           "day": "Sat",
-          "note": "09:00-17:00"
+          "open": "09:00",
+          "close": "17:00"
         },
         {
           "day": "Sun",
-          "note": "09:00-17:00"
+          "open": "09:00",
+          "close": "17:00"
         }
-      ],
-      "openingWeeks": [
-        "skip_open_now"
       ],
       "phone": "01273 918226",
       "email": "havensfoodcoop@gmail.com",
