@@ -1,6 +1,6 @@
 {
-  "version": "202604301332",
-  "generated": "2026-04-30T13:32:14.572692Z",
+  "version": "202605051416",
+  "generated": "2026-05-05T14:16:50.955702Z",
   "services": [
     {
       "id": "bht_sussex_bht_eastbourne_advice_2",
@@ -624,9 +624,9 @@
       "notes": "No food is available"
     },
     {
-      "id": "havens_hub_hillcrest_breakfast_23",
-      "name": "Hillcrest Breakfast",
-      "agency": "Havens Hub",
+      "id": "havens_community_hub_free_breakfast_signposting_support_23",
+      "name": "Free Breakfast & Signposting Support",
+      "agency": "Havens Community Hub",
       "category": "Meals",
       "address": "Hillcrest Community Center, Bay Vue Road, Newhaven, BN9 9LH",
       "coordinates": {
@@ -660,12 +660,16 @@
           "open": "09:00",
           "close": "10:15"
         }
-      ]
+      ],
+      "phone": "07765 351295",
+      "email": "havenshomelesssupport@gmail.com",
+      "website": "https://havenscommunityhub.co.uk",
+      "notes": "Weekday free breakfast session with support from caseworkers (signposting and advocacy)"
     },
     {
-      "id": "havens_hub_the_pantry_havens_community_hub_24",
+      "id": "havens_community_hub_the_pantry_havens_community_hub_24",
       "name": "The Pantry @ Havens Community Hub",
-      "agency": "Havens Hub",
+      "agency": "Havens Community Hub",
       "category": "Food",
       "address": "Havens Community Hub, 2a Thompson Road, Newhaven, BN9 0RS",
       "coordinates": {
@@ -676,33 +680,39 @@
       "hours": [
         {
           "day": "Mon",
-          "note": "09:00-"
+          "note": "09:00-17:00"
         },
         {
           "day": "Tue",
-          "note": "09:00-"
+          "note": "09:00-17:00"
         },
         {
           "day": "Wed",
-          "note": "09:00-"
+          "note": "09:00-17:00"
         },
         {
           "day": "Thu",
-          "note": "09:00-"
+          "note": "09:00-17:00"
         },
         {
           "day": "Fri",
-          "note": "09:00-"
+          "note": "09:00-17:00"
         },
         {
           "day": "Sat",
-          "note": "09:00-"
+          "note": "09:00-17:00"
         },
         {
           "day": "Sun",
-          "note": "09:00-"
+          "note": "09:00-17:00"
         }
       ],
+      "openingWeeks": [
+        "skip_open_now"
+      ],
+      "phone": "01273 918226",
+      "email": "havensfoodcoop@gmail.com",
+      "website": "https://havenscommunityhub.co.uk",
       "notes": "Surplus food such as pastries, bread and fruit and vegetables are placed outside to be taken 7 days a week from 9 am until supplies run out"
     },
     {
