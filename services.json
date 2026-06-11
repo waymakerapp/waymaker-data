@@ -1,6 +1,6 @@
 {
-  "version": "202605051507",
-  "generated": "2026-05-05T15:07:47.980541Z",
+  "version": "202606111252",
+  "generated": "2026-06-11T12:52:55.762153Z",
   "services": [
     {
       "id": "bht_sussex_bht_eastbourne_advice_2",
@@ -286,22 +286,22 @@
         {
           "day": "Mon",
           "open": "10:00",
-          "close": "14:00"
+          "close": "16:00"
         },
         {
           "day": "Tue",
           "open": "10:00",
-          "close": "14:00"
+          "close": "16:00"
         },
         {
           "day": "Wed",
-          "open": "10:00",
-          "close": "14:00"
+          "open": "12:00",
+          "close": "16:00"
         },
         {
           "day": "Thu",
           "open": "10:00",
-          "close": "14:00"
+          "close": "16:00"
         },
         {
           "day": "Fri",
@@ -312,7 +312,48 @@
       "phone": "01323 410000"
     },
     {
-      "id": "foodbank_foodbank_st_richard_s_9",
+      "id": "food4thought_food4thought_9",
+      "name": "Food4Thought",
+      "agency": "Food4Thought",
+      "category": "Food",
+      "address": "Brodie Hall, Christchurch, Seaside, Eastbourne, BN22 7NN",
+      "coordinates": {
+        "lat": 50.7744982809049,
+        "lng": 0.296796612552069
+      },
+      "openingType": "regular",
+      "hours": [
+        {
+          "day": "Fri",
+          "open": "19:00",
+          "close": "20:00"
+        }
+      ]
+    },
+    {
+      "id": "feedbourners_feebourners_10",
+      "name": "Feebourners",
+      "agency": "Feedbourners",
+      "category": "Food",
+      "address": "69 Terminus Road, Eastbourne, BN21 3NJ",
+      "coordinates": {
+        "lat": 50.7685721810407,
+        "lng": 0.284338868425049
+      },
+      "openingType": "regular",
+      "hours": [
+        {
+          "day": "Wed",
+          "open": "19:30",
+          "close": "20:30"
+        }
+      ],
+      "email": "feedbourners@gmail.com",
+      "website": "https://www.facebook.com/p/Feedbourners-100068130840696/",
+      "notes": "Provide a home cooked hot meal, snacks, cold drinks and toiletries"
+    },
+    {
+      "id": "foodbank_foodbank_st_richard_s_11",
       "name": "Foodbank - St Richard's",
       "agency": "Foodbank",
       "category": "Advice",
@@ -335,7 +376,7 @@
       "notes": "No food is available"
     },
     {
-      "id": "foodbank_foodbank_langney_community_centre_10",
+      "id": "foodbank_foodbank_langney_community_centre_12",
       "name": "Foodbank - Langney Community Centre",
       "agency": "Foodbank",
       "category": "Advice",
@@ -358,7 +399,7 @@
       "notes": "You must have a food voucher"
     },
     {
-      "id": "foodbank_foodbank_st_elisabeth_s_11",
+      "id": "foodbank_foodbank_st_elisabeth_s_13",
       "name": "Foodbank - St Elisabeth's",
       "agency": "Foodbank",
       "category": "Advice",
@@ -380,7 +421,7 @@
       "website": "https://eastbourne.foodbank.org.uk"
     },
     {
-      "id": "foodbank_foodbank_all_souls_12",
+      "id": "foodbank_foodbank_all_souls_14",
       "name": "Foodbank - All Souls",
       "agency": "Foodbank",
       "category": "Advice",
@@ -402,7 +443,7 @@
       "website": "https://eastbourne.foodbank.org.uk"
     },
     {
-      "id": "foodbank_foodbank_gateway_christian_centre_13",
+      "id": "foodbank_foodbank_gateway_christian_centre_15",
       "name": "Foodbank - Gateway Christian Centre",
       "agency": "Foodbank",
       "category": "Advice",
@@ -424,7 +465,7 @@
       "website": "https://eastbourne.foodbank.org.uk"
     },
     {
-      "id": "foodbank_foodbank_st_elisabeth_s_14",
+      "id": "foodbank_foodbank_st_elisabeth_s_16",
       "name": "Foodbank - St Elisabeth's",
       "agency": "Foodbank",
       "category": "Cafe",
@@ -446,7 +487,7 @@
       "website": "https://eastbourne.foodbank.org.uk"
     },
     {
-      "id": "foodbank_foodbank_all_souls_15",
+      "id": "foodbank_foodbank_all_souls_17",
       "name": "Foodbank - All Souls",
       "agency": "Foodbank",
       "category": "Cafe",
@@ -468,7 +509,7 @@
       "website": "https://eastbourne.foodbank.org.uk"
     },
     {
-      "id": "foodbank_foodbank_gateway_christian_centre_16",
+      "id": "foodbank_foodbank_gateway_christian_centre_18",
       "name": "Foodbank - Gateway Christian Centre",
       "agency": "Foodbank",
       "category": "Cafe",
@@ -490,7 +531,7 @@
       "website": "https://eastbourne.foodbank.org.uk"
     },
     {
-      "id": "foodbank_foodbank_langney_community_centre_17",
+      "id": "foodbank_foodbank_langney_community_centre_19",
       "name": "Foodbank - Langney Community Centre",
       "agency": "Foodbank",
       "category": "Food",
@@ -513,7 +554,7 @@
       "notes": "You must have a food voucher"
     },
     {
-      "id": "foodbank_foodbank_st_elisabeth_s_18",
+      "id": "foodbank_foodbank_st_elisabeth_s_20",
       "name": "Foodbank - St Elisabeth's",
       "agency": "Foodbank",
       "category": "Food",
@@ -535,7 +576,7 @@
       "website": "https://eastbourne.foodbank.org.uk"
     },
     {
-      "id": "foodbank_foodbank_all_souls_19",
+      "id": "foodbank_foodbank_all_souls_21",
       "name": "Foodbank - All Souls",
       "agency": "Foodbank",
       "category": "Food",
@@ -557,7 +598,7 @@
       "website": "https://eastbourne.foodbank.org.uk"
     },
     {
-      "id": "foodbank_foodbank_gateway_christian_centre_20",
+      "id": "foodbank_foodbank_gateway_christian_centre_22",
       "name": "Foodbank - Gateway Christian Centre",
       "agency": "Foodbank",
       "category": "Food",
@@ -579,7 +620,7 @@
       "website": "https://eastbourne.foodbank.org.uk"
     },
     {
-      "id": "foodbank_foodbank_st_saviour_s_21",
+      "id": "foodbank_foodbank_st_saviour_s_23",
       "name": "Foodbank - St Saviour's",
       "agency": "Foodbank",
       "category": "Food",
@@ -601,7 +642,7 @@
       "website": "https://eastbourne.foodbank.org.uk"
     },
     {
-      "id": "foodbank_foodbank_st_richard_s_22",
+      "id": "foodbank_foodbank_st_richard_s_24",
       "name": "Foodbank - St Richard's",
       "agency": "Foodbank",
       "category": "Food Voucher",
@@ -624,7 +665,7 @@
       "notes": "No food is available"
     },
     {
-      "id": "havens_community_hub_free_breakfast_signposting_support_23",
+      "id": "havens_community_hub_free_breakfast_signposting_support_25",
       "name": "Free Breakfast & Signposting Support",
       "agency": "Havens Community Hub",
       "category": "Meals",
@@ -667,7 +708,7 @@
       "notes": "Weekday free breakfast session with support from caseworkers (signposting and advocacy)"
     },
     {
-      "id": "havens_community_hub_the_pantry_havens_community_hub_24",
+      "id": "havens_community_hub_the_pantry_havens_community_hub_26",
       "name": "The Pantry @ Havens Community Hub",
       "agency": "Havens Community Hub",
       "category": "Food",
@@ -720,7 +761,7 @@
       "notes": "Surplus food such as pastries, bread and fruit and vegetables are placed outside to be taken 7 days a week from 9 am until supplies run out"
     },
     {
-      "id": "kingdom_way_trust_weekend_drop_in_kingdom_way_trust_25",
+      "id": "kingdom_way_trust_weekend_drop_in_kingdom_way_trust_27",
       "name": "Weekend Drop-In  Kingdom Way Trust",
       "agency": "Kingdom Way Trust",
       "category": "Refreshments",
@@ -750,7 +791,7 @@
       "notes": "Open 2nd & 4th weekend of month"
     },
     {
-      "id": "langney_community_centre_caf_langney_community_centre_26",
+      "id": "langney_community_centre_caf_langney_community_centre_28",
       "name": "Café Langney Community Centre",
       "agency": "Langney Community Centre",
       "category": "Cafe",
@@ -817,7 +858,7 @@
       "notes": "clothing avaible from donations in lobby"
     },
     {
-      "id": "langney_community_centre_langney_community_fridge_28",
+      "id": "langney_community_centre_langney_community_fridge_30",
       "name": "Langney Community Fridge",
       "agency": "Langney Community Centre",
       "category": "Food",
@@ -925,7 +966,7 @@
       "notes": "Support, referrals, clothing & emergency outreach for homeless or at risk."
     },
     {
-      "id": "library_library_services_32",
+      "id": "library_library_services_34",
       "name": "Library Services",
       "agency": "Library",
       "category": "Tech Access",
@@ -972,7 +1013,7 @@
       "notes": "Free access to computers and the internet, Free wifi"
     },
     {
-      "id": "matthew_25_mission_citizens_advice_bureau_service_33",
+      "id": "matthew_25_mission_citizens_advice_bureau_service_35",
       "name": "Citizens Advice Bureau service",
       "agency": "Matthew 25 Mission",
       "category": "Advice",
@@ -991,7 +1032,7 @@
       ]
     },
     {
-      "id": "matthew_25_mission_barber_34",
+      "id": "matthew_25_mission_barber_36",
       "name": "Barber",
       "agency": "Matthew 25 Mission",
       "category": "Haircut",
@@ -1077,7 +1118,7 @@
       ]
     },
     {
-      "id": "matthew_25_mission_tech_resort_36",
+      "id": "matthew_25_mission_tech_resort_38",
       "name": "Tech Resort",
       "agency": "Matthew 25 Mission",
       "category": "Tech Access",
@@ -1099,7 +1140,7 @@
       "notes": "Open 1st Monday of each month"
     },
     {
-      "id": "probation_office_probation_contact_centre_37",
+      "id": "probation_office_probation_contact_centre_39",
       "name": "Probation contact centre",
       "agency": "Probation Office",
       "category": "Legal",
@@ -1140,7 +1181,7 @@
       "email": "KSSPSEastbourne@justice.gov.uk"
     },
     {
-      "id": "shinewater_community_fridge_shinewater_community_clothing_38",
+      "id": "shinewater_community_fridge_shinewater_community_clothing_40",
       "name": "Shinewater Community Clothing",
       "agency": "Shinewater Community Fridge",
       "category": "Clothing",
@@ -1177,7 +1218,7 @@
       "notes": "Fruit & veg, pay-what-you-can. Some clothing, books & toiletries available."
     },
     {
-      "id": "shinewater_community_fridge_shinewater_community_fridge_39",
+      "id": "shinewater_community_fridge_shinewater_community_fridge_41",
       "name": "Shinewater Community Fridge",
       "agency": "Shinewater Community Fridge",
       "category": "Food",
@@ -1214,7 +1255,48 @@
       "notes": "Fruit & veg, pay-what-you-can. Some clothing, books & toiletries available."
     },
     {
-      "id": "sussex_police_police_station_40",
+      "id": "st_saviour_s_eastbourne_community_wellbeing_caf_42",
+      "name": "Community Wellbeing Café",
+      "agency": "St Saviour's Eastbourne",
+      "category": "Cafe",
+      "address": "South St, Eastbourne BN21 4UT",
+      "coordinates": {
+        "lat": 50.7661602405792,
+        "lng": 0.28276266746713
+      },
+      "openingType": "regular",
+      "hours": [
+        {
+          "day": "Tue",
+          "open": "14:00",
+          "close": "16:00"
+        }
+      ],
+      "email": "https://www.stsaviourseastbourne.org.uk/community-wellbeing-café",
+      "notes": "A safe inclusive space for people with mental health challenges"
+    },
+    {
+      "id": "st_saviour_s_eastbourne_chat_stop_43",
+      "name": "Chat-Stop",
+      "agency": "St Saviour's Eastbourne",
+      "category": "Refreshments",
+      "address": "South St, Eastbourne BN21 4UT",
+      "coordinates": {
+        "lat": 50.7661222798101,
+        "lng": 0.283273305698537
+      },
+      "openingType": "variable",
+      "hours": [
+        {
+          "day": "Sat",
+          "note": "10:00-12:00"
+        }
+      ],
+      "email": "https://www.stsaviourseastbourne.org.uk/community-wellbeing-café",
+      "notes": "An opportunity to meet and chat with others over a cup of tea and coffee"
+    },
+    {
+      "id": "sussex_police_police_station_44",
       "name": "Police station",
       "agency": "Sussex Police",
       "category": "Legal",
@@ -1260,7 +1342,7 @@
       "email": "01273 470171"
     },
     {
-      "id": "tech_resort_tech_resort_41",
+      "id": "tech_resort_tech_resort_45",
       "name": "Tech Resort",
       "agency": "Tech Resort",
       "category": "Tech Access",
@@ -1286,7 +1368,7 @@
       "notes": "Tackling digital exclusion and sharing digital skills"
     },
     {
-      "id": "the_salvation_army_laundry_salvation_army_42",
+      "id": "the_salvation_army_laundry_salvation_army_46",
       "name": "Laundry - Salvation Army",
       "agency": "The Salvation Army",
       "category": "Laundry",
@@ -1308,7 +1390,7 @@
       "notes": "Signposting to other agencies for help in finance and housing etc."
     },
     {
-      "id": "the_salvation_army_evening_meals_salvation_army_43",
+      "id": "the_salvation_army_evening_meals_salvation_army_47",
       "name": "Evening meals - Salvation Army",
       "agency": "The Salvation Army",
       "category": "Meals",
@@ -1334,7 +1416,7 @@
       "email": "eastbourne@salvationarmy.org.uk"
     },
     {
-      "id": "the_salvation_army_healthy_breakfast_salvation_army_44",
+      "id": "the_salvation_army_healthy_breakfast_salvation_army_48",
       "name": "Healthy Breakfast - Salvation Army",
       "agency": "The Salvation Army",
       "category": "Meals",
@@ -1356,7 +1438,7 @@
       "notes": "Signposting to other agencies for help in finance and housing etc."
     },
     {
-      "id": "the_salvation_army_showers_salvation_army_45",
+      "id": "the_salvation_army_showers_salvation_army_49",
       "name": "Showers - Salvation Army",
       "agency": "The Salvation Army",
       "category": "Showers",
@@ -1378,7 +1460,7 @@
       "notes": "Signposting to other agencies for help in finance and housing etc."
     },
     {
-      "id": "the_salvation_army_signposting_salvation_army_46",
+      "id": "the_salvation_army_signposting_salvation_army_50",
       "name": "Signposting - Salvation Army",
       "agency": "The Salvation Army",
       "category": "Signposting",
@@ -1400,7 +1482,7 @@
       "notes": "Signposting to other agencies for help in finance and housing etc."
     },
     {
-      "id": "vmc_beacon_practice_vmc_the_beacon_practice_47",
+      "id": "vmc_beacon_practice_vmc_the_beacon_practice_51",
       "name": "VMC The Beacon Practice",
       "agency": "VMC Beacon Practice",
       "category": "Healthcare",
@@ -1442,7 +1524,7 @@
       "website": "https://www.victoriamedicalcentre.co.uk"
     },
     {
-      "id": "warming_up_the_homeless_wuth_takeaway_hot_food_and_snacks_48",
+      "id": "warming_up_the_homeless_wuth_takeaway_hot_food_and_snacks_52",
       "name": "WUTH Takeaway Hot Food and Snacks",
       "agency": "Warming Up the Homeless",
       "category": "Meals",
@@ -1473,10 +1555,12 @@
           "open": "19:30",
           "close": "21:00"
         }
-      ]
+      ],
+      "email": "hello@wuth.org",
+      "website": "https://wuth.org/"
     },
     {
-      "id": "warming_up_the_homeless_wuth_takeaway_hot_food_and_snacks_49",
+      "id": "warming_up_the_homeless_wuth_takeaway_hot_food_and_snacks_53",
       "name": "WUTH Takeaway Hot Food and Snacks",
       "agency": "Warming Up the Homeless",
       "category": "Meals",
@@ -1507,10 +1591,12 @@
           "open": "19:30",
           "close": "21:00"
         }
-      ]
+      ],
+      "email": "hello@wuth.org",
+      "website": "https://wuth.org/"
     },
     {
-      "id": "warming_up_the_homeless_wuth_evening_meal_50",
+      "id": "warming_up_the_homeless_wuth_evening_meal_54",
       "name": "WUTH Evening meal",
       "agency": "Warming Up the Homeless",
       "category": "Meals",
@@ -1526,7 +1612,9 @@
           "open": "16:15",
           "close": "19:00"
         }
-      ]
+      ],
+      "email": "hello@wuth.org",
+      "website": "https://wuth.org/"
     },
     {
       "id": "willingdon_trees_community_centre_community_fridge_pantry_wi",
@@ -1561,7 +1649,7 @@
       "notes": "Community fridge: 10 items £2. £1 Wed breakfast. Over-50s group Fridays."
     },
     {
-      "id": "ymca_downslink_group_ymca_eastbourne_foyer_52",
+      "id": "ymca_downslink_group_ymca_eastbourne_foyer_56",
       "name": "YMCA Eastbourne Foyer",
       "agency": "YMCA Downslink Group",
       "category": "Accommodation",
