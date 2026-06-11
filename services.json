@@ -1,6 +1,6 @@
 {
-  "version": "202606111252",
-  "generated": "2026-06-11T12:52:55.762153Z",
+  "version": "202606111302",
+  "generated": "2026-06-11T13:02:19.428877Z",
   "services": [
     {
       "id": "bht_sussex_bht_eastbourne_advice_2",
@@ -350,7 +350,7 @@
       ],
       "email": "feedbourners@gmail.com",
       "website": "https://www.facebook.com/p/Feedbourners-100068130840696/",
-      "notes": "Provide a home cooked hot meal, snacks, cold drinks and toiletries"
+      "notes": "Home cooked hot meal, snacks, cold drinks and toiletries"
     },
     {
       "id": "foodbank_foodbank_st_richard_s_11",
@@ -1261,8 +1261,8 @@
       "category": "Cafe",
       "address": "South St, Eastbourne BN21 4UT",
       "coordinates": {
-        "lat": 50.7661602405792,
-        "lng": 0.28276266746713
+        "lat": 50.7662416230193,
+        "lng": 0.283116750866538
       },
       "openingType": "regular",
       "hours": [
@@ -1282,8 +1282,8 @@
       "category": "Refreshments",
       "address": "South St, Eastbourne BN21 4UT",
       "coordinates": {
-        "lat": 50.7661222798101,
-        "lng": 0.283273305698537
+        "lat": 50.7662823380187,
+        "lng": 0.283384971754655
       },
       "openingType": "variable",
       "hours": [
@@ -1293,7 +1293,7 @@
         }
       ],
       "email": "https://www.stsaviourseastbourne.org.uk/community-wellbeing-café",
-      "notes": "An opportunity to meet and chat with others over a cup of tea and coffee"
+      "notes": "Open 2nd Saturday of each month. An opportunity to meet and chat with others over a cup of tea and coffee"
     },
     {
       "id": "sussex_police_police_station_44",
