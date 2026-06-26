@@ -1,6 +1,6 @@
 {
-  "version": "202606111302",
-  "generated": "2026-06-11T13:02:19.428877Z",
+  "version": "202606261345",
+  "generated": "2026-06-26T13:45:37.821198Z",
   "services": [
     {
       "id": "bht_sussex_bht_eastbourne_advice_2",
@@ -949,21 +949,21 @@
       "category": "Signposting",
       "address": "Kings Church, Unit 3, Brooks Rd, Lewes, BN7 2BY",
       "coordinates": {
-        "lat": 50.87779317,
-        "lng": 0.01627358027
+        "lat": 50.8775229009576,
+        "lng": 0.0163056587274836
       },
       "openingType": "regular",
       "hours": [
         {
           "day": "Mon",
           "open": "12:00",
-          "close": "14:00"
+          "close": "13:30"
         }
       ],
       "phone": "07985 418079",
       "email": "lewesopendoor@gmail.com",
       "website": "https://www.lewesopendoor.org",
-      "notes": "Support, referrals, clothing & emergency outreach for homeless or at risk."
+      "notes": "Outreach services available as needed, also form filling, clothing, sleeping bags, etc; in emergency contact by phone or email."
     },
     {
       "id": "library_library_services_34",
