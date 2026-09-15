@@ -1,6 +1,6 @@
 {
-  "version": "202606261345",
-  "generated": "2026-06-26T13:45:37.821198Z",
+  "version": "202609150557",
+  "generated": "2026-09-15T05:57:56.032415Z",
   "services": [
     {
       "id": "bht_sussex_bht_eastbourne_advice_2",
@@ -770,20 +770,18 @@
         "lat": 50.7682741,
         "lng": 0.2912615
       },
-      "openingType": "variable",
+      "openingType": "regular",
       "hours": [
         {
           "day": "Sat",
-          "note": "10:30-15:30"
+          "open": "10:00",
+          "close": "13:00"
         },
         {
           "day": "Sun",
-          "note": "10:30-15:30"
+          "open": "10:00",
+          "close": "13:00"
         }
-      ],
-      "openingWeeks": [
-        "week2",
-        "week4"
       ],
       "phone": "07522 552117",
       "email": "theway@kingdomwaytrust.org",
@@ -1073,7 +1071,7 @@
         {
           "day": "Mon",
           "open": "12:30",
-          "close": "14:00"
+          "close": "13:30"
         },
         {
           "day": "Tue",
@@ -1083,7 +1081,7 @@
         {
           "day": "Tue",
           "open": "12:30",
-          "close": "14:00"
+          "close": "13:30"
         },
         {
           "day": "Wed",
@@ -1093,7 +1091,7 @@
         {
           "day": "Wed",
           "open": "12:30",
-          "close": "14:00"
+          "close": "13:30"
         },
         {
           "day": "Thu",
@@ -1103,7 +1101,7 @@
         {
           "day": "Thu",
           "open": "12:30",
-          "close": "14:00"
+          "close": "13:30"
         },
         {
           "day": "Fri",
@@ -1113,7 +1111,7 @@
         {
           "day": "Fri",
           "open": "12:30",
-          "close": "14:00"
+          "close": "13:30"
         }
       ]
     },
@@ -1291,6 +1289,9 @@
           "day": "Sat",
           "note": "10:00-12:00"
         }
+      ],
+      "openingWeeks": [
+        "week2"
       ],
       "email": "https://www.stsaviourseastbourne.org.uk/community-wellbeing-café",
       "notes": "Open 2nd Saturday of each month. An opportunity to meet and chat with others over a cup of tea and coffee"
@@ -1548,12 +1549,12 @@
         {
           "day": "Thu",
           "open": "19:30",
-          "close": "21:00"
+          "close": "20:30"
         },
         {
           "day": "Sat",
           "open": "19:30",
-          "close": "21:00"
+          "close": "20:30"
         }
       ],
       "email": "hello@wuth.org",
@@ -1584,12 +1585,12 @@
         {
           "day": "Thu",
           "open": "19:30",
-          "close": "21:00"
+          "close": "20:30"
         },
         {
           "day": "Sat",
           "open": "19:30",
-          "close": "21:00"
+          "close": "20:30"
         }
       ],
       "email": "hello@wuth.org",
