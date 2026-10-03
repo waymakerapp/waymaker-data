@@ -1,6 +1,6 @@
 {
-  "version": "202609150557",
-  "generated": "2026-09-15T05:57:56.032415Z",
+  "version": "202610031147",
+  "generated": "2026-10-03T11:47:35.848484Z",
   "services": [
     {
       "id": "bht_sussex_bht_eastbourne_advice_2",
@@ -785,8 +785,7 @@
       ],
       "phone": "07522 552117",
       "email": "theway@kingdomwaytrust.org",
-      "website": "https://www.kingdomwaytrust.org/the-way",
-      "notes": "Open 2nd & 4th weekend of month"
+      "website": "https://www.kingdomwaytrust.org/the-way"
     },
     {
       "id": "langney_community_centre_caf_langney_community_centre_28",
