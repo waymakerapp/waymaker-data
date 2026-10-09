@@ -1,0 +1,14 @@
+[
+  {
+    "key": "eastbourne",
+    "label": "Eastbourne",
+    "center": { "lat": 50.7981, "lng": 0.2885 },
+    "zoom": 11
+  },
+  {
+    "key": "lewes",
+    "label": "Lewes",
+    "center": { "lat": 50.8742, "lng": 0.0077 },
+    "zoom": 13
+  }
+]
